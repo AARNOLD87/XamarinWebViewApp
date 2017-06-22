@@ -11,8 +11,7 @@
 namespace XamarinWebViewApp {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("c:\\users\\adolfo\\documents\\visual studio 2017\\Projects\\XamarinWebViewApp\\XamarinWe" +
-        "bViewApp\\XamarinWebViewApp\\App.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Tirocinio\\Repo\\XamarinWebViewApp\\XamarinWebViewApp\\XamarinWebViewApp\\App.xaml")]
     public partial class App : global::Prism.Unity.PrismApplication {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]

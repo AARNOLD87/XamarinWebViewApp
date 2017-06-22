@@ -31,13 +31,13 @@
     <AppXManifest Include="C:\Tirocinio\Repo\XamarinWebViewApp\XamarinWebViewApp\XamarinWebViewApp.UWP\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-06-22T09:34:19.965</Modified>
+      <Modified>2017-06-22T09:48:12.521</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Tirocinio\Repo\XamarinWebViewApp\XamarinWebViewApp\XamarinWebViewApp.UWP\bin\x86\Debug\XamarinWebViewApp.UWP.exe">
       <PackagePath>entrypoint\XamarinWebViewApp.UWP.exe</PackagePath>
-      <Modified>2017-06-22T09:34:19.421</Modified>
+      <Modified>2017-06-22T09:48:10.945</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\adolfo\.nuget\packages\CommonServiceLocator\1.3.0\lib\portable-net4+sl5+netcore45+wpa81+wp8\Microsoft.Practices.ServiceLocation.dll">
       <PackagePath>Microsoft.Practices.ServiceLocation.dll</PackagePath>
@@ -537,49 +537,49 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Tirocinio\Repo\XamarinWebViewApp\XamarinWebViewApp\XamarinWebViewApp\bin\Debug\XamarinWebViewApp.dll">
       <PackagePath>XamarinWebViewApp.dll</PackagePath>
-      <Modified>2017-06-22T09:34:17.381</Modified>
+      <Modified>2017-06-22T09:48:08.576</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Tirocinio\Repo\XamarinWebViewApp\XamarinWebViewApp\XamarinWebViewApp.UWP\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
-      <Modified>2017-06-22T08:43:14.502</Modified>
+      <Modified>2017-06-22T09:45:34.455</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Tirocinio\Repo\XamarinWebViewApp\XamarinWebViewApp\XamarinWebViewApp.UWP\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
-      <Modified>2017-06-22T08:43:14.470</Modified>
+      <Modified>2017-06-22T09:45:34.476</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Tirocinio\Repo\XamarinWebViewApp\XamarinWebViewApp\XamarinWebViewApp.UWP\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-06-22T08:43:14.486</Modified>
+      <Modified>2017-06-22T09:45:34.474</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Tirocinio\Repo\XamarinWebViewApp\XamarinWebViewApp\XamarinWebViewApp.UWP\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-06-22T08:43:14.486</Modified>
+      <Modified>2017-06-22T09:45:34.472</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Tirocinio\Repo\XamarinWebViewApp\XamarinWebViewApp\XamarinWebViewApp.UWP\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-06-22T08:43:14.486</Modified>
+      <Modified>2017-06-22T09:45:34.470</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Tirocinio\Repo\XamarinWebViewApp\XamarinWebViewApp\XamarinWebViewApp.UWP\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-06-22T08:43:14.486</Modified>
+      <Modified>2017-06-22T09:45:34.469</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Tirocinio\Repo\XamarinWebViewApp\XamarinWebViewApp\XamarinWebViewApp.UWP\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-06-22T08:43:14.486</Modified>
+      <Modified>2017-06-22T09:45:34.466</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Tirocinio\Repo\XamarinWebViewApp\XamarinWebViewApp\XamarinWebViewApp.UWP\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-06-22T08:43:14.486</Modified>
+      <Modified>2017-06-22T09:45:34.464</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Tirocinio\Repo\XamarinWebViewApp\XamarinWebViewApp\XamarinWebViewApp.UWP\bin\x86\Debug\XamarinWebViewApp.UWP.xr.xml">
       <PackagePath>XamarinWebViewApp.UWP.xr.xml</PackagePath>
-      <Modified>2017-06-22T09:00:17.166</Modified>
+      <Modified>2017-06-22T09:45:28.139</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.15063.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -596,11 +596,11 @@
     <AppxPackagedFile Include="C:\Tirocinio\Repo\XamarinWebViewApp\XamarinWebViewApp\XamarinWebViewApp.UWP\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-06-22T09:24:35.001</Modified>
+      <Modified>2017-06-22T09:48:12.189</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Tirocinio\Repo\XamarinWebViewApp\XamarinWebViewApp\XamarinWebViewApp.UWP\bin\x86\Debug\Core\XamarinWebViewApp.UWP.exe">
       <PackagePath>XamarinWebViewApp.UWP.exe</PackagePath>
-      <Modified>2017-06-22T09:34:19.962</Modified>
+      <Modified>2017-06-22T09:48:12.512</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
