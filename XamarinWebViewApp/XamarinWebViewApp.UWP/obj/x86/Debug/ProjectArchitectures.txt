@@ -1,2 +1,0 @@
-C:\Tirocinio\Repo\XamarinWebViewApp\XamarinWebViewApp\XamarinWebViewApp.UWP\XamarinWebViewApp.UWP.csproj;x86
-C:\Tirocinio\Repo\XamarinWebViewApp\XamarinWebViewApp\XamarinWebViewApp\XamarinWebViewApp.csproj;neutral

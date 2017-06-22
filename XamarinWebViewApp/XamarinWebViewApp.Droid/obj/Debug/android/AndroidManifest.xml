@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:installLocation="auto" android:versionCode="1" android:versionName="1.0" package="XamarinWebViewApp.Droid">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:installLocation="auto" android:versionCode="1" android:versionName="aprimm" package="xamarinwebviewapp.xamarinwebviewapp">
   <!--suppress UsesMinSdkAttributes-->
   <uses-sdk android:minSdkVersion="23" />
   <uses-permission android:name="android.permission.INTERNET" />
@@ -12,12 +12,12 @@
         <category android:name="android.intent.category.LAUNCHER" />
       </intent-filter>
     </activity>
-    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="XamarinWebViewApp.Droid.mono.MonoRuntimeProvider.__mono_init__" />
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="xamarinwebviewapp.xamarinwebviewapp.mono.MonoRuntimeProvider.__mono_init__" />
     <!--suppress ExportedReceiver-->
     <receiver android:name="mono.android.Seppuku">
       <intent-filter>
         <action android:name="mono.android.intent.action.SEPPUKU" />
-        <category android:name="mono.android.intent.category.SEPPUKU.XamarinWebViewApp.Droid" />
+        <category android:name="mono.android.intent.category.SEPPUKU.xamarinwebviewapp.xamarinwebviewapp" />
       </intent-filter>
     </receiver>
   </application>

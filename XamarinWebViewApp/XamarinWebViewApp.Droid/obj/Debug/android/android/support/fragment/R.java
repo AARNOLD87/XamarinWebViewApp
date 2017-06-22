@@ -3737,35 +3737,35 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActionBar_background XamarinWebViewApp.Droid:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_backgroundSplit XamarinWebViewApp.Droid:backgroundSplit}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_backgroundStacked XamarinWebViewApp.Droid:backgroundStacked}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetEnd XamarinWebViewApp.Droid:contentInsetEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetEndWithActions XamarinWebViewApp.Droid:contentInsetEndWithActions}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetLeft XamarinWebViewApp.Droid:contentInsetLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetRight XamarinWebViewApp.Droid:contentInsetRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetStart XamarinWebViewApp.Droid:contentInsetStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetStartWithNavigation XamarinWebViewApp.Droid:contentInsetStartWithNavigation}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_customNavigationLayout XamarinWebViewApp.Droid:customNavigationLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_displayOptions XamarinWebViewApp.Droid:displayOptions}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_divider XamarinWebViewApp.Droid:divider}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_elevation XamarinWebViewApp.Droid:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_height XamarinWebViewApp.Droid:height}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_hideOnContentScroll XamarinWebViewApp.Droid:hideOnContentScroll}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_homeAsUpIndicator XamarinWebViewApp.Droid:homeAsUpIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_homeLayout XamarinWebViewApp.Droid:homeLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_icon XamarinWebViewApp.Droid:icon}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_indeterminateProgressStyle XamarinWebViewApp.Droid:indeterminateProgressStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_itemPadding XamarinWebViewApp.Droid:itemPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_logo XamarinWebViewApp.Droid:logo}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_navigationMode XamarinWebViewApp.Droid:navigationMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_popupTheme XamarinWebViewApp.Droid:popupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_progressBarPadding XamarinWebViewApp.Droid:progressBarPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_progressBarStyle XamarinWebViewApp.Droid:progressBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_subtitle XamarinWebViewApp.Droid:subtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_subtitleTextStyle XamarinWebViewApp.Droid:subtitleTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_title XamarinWebViewApp.Droid:title}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_titleTextStyle XamarinWebViewApp.Droid:titleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_background xamarinwebviewapp.xamarinwebviewapp:background}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_backgroundSplit xamarinwebviewapp.xamarinwebviewapp:backgroundSplit}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_backgroundStacked xamarinwebviewapp.xamarinwebviewapp:backgroundStacked}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetEnd xamarinwebviewapp.xamarinwebviewapp:contentInsetEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetEndWithActions xamarinwebviewapp.xamarinwebviewapp:contentInsetEndWithActions}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetLeft xamarinwebviewapp.xamarinwebviewapp:contentInsetLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetRight xamarinwebviewapp.xamarinwebviewapp:contentInsetRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetStart xamarinwebviewapp.xamarinwebviewapp:contentInsetStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetStartWithNavigation xamarinwebviewapp.xamarinwebviewapp:contentInsetStartWithNavigation}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_customNavigationLayout xamarinwebviewapp.xamarinwebviewapp:customNavigationLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_displayOptions xamarinwebviewapp.xamarinwebviewapp:displayOptions}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_divider xamarinwebviewapp.xamarinwebviewapp:divider}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_elevation xamarinwebviewapp.xamarinwebviewapp:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_height xamarinwebviewapp.xamarinwebviewapp:height}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_hideOnContentScroll xamarinwebviewapp.xamarinwebviewapp:hideOnContentScroll}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_homeAsUpIndicator xamarinwebviewapp.xamarinwebviewapp:homeAsUpIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_homeLayout xamarinwebviewapp.xamarinwebviewapp:homeLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_icon xamarinwebviewapp.xamarinwebviewapp:icon}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_indeterminateProgressStyle xamarinwebviewapp.xamarinwebviewapp:indeterminateProgressStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_itemPadding xamarinwebviewapp.xamarinwebviewapp:itemPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_logo xamarinwebviewapp.xamarinwebviewapp:logo}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_navigationMode xamarinwebviewapp.xamarinwebviewapp:navigationMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_popupTheme xamarinwebviewapp.xamarinwebviewapp:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_progressBarPadding xamarinwebviewapp.xamarinwebviewapp:progressBarPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_progressBarStyle xamarinwebviewapp.xamarinwebviewapp:progressBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_subtitle xamarinwebviewapp.xamarinwebviewapp:subtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_subtitleTextStyle xamarinwebviewapp.xamarinwebviewapp:subtitleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_title xamarinwebviewapp.xamarinwebviewapp:title}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_titleTextStyle xamarinwebviewapp.xamarinwebviewapp:titleTextStyle}</code></td><td></td></tr>
            </table>
            @see #ActionBar_background
            @see #ActionBar_backgroundSplit
@@ -3808,17 +3808,17 @@ containing a value of this type.
             0x7f010077
         };
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#background}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#background}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:background
+          @attr name xamarinwebviewapp.xamarinwebviewapp:background
         */
         public static final int ActionBar_background = 10;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#backgroundSplit}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#backgroundSplit}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3826,11 +3826,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name XamarinWebViewApp.Droid:backgroundSplit
+          @attr name xamarinwebviewapp.xamarinwebviewapp:backgroundSplit
         */
         public static final int ActionBar_backgroundSplit = 12;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#backgroundStacked}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#backgroundStacked}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3838,11 +3838,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name XamarinWebViewApp.Droid:backgroundStacked
+          @attr name xamarinwebviewapp.xamarinwebviewapp:backgroundStacked
         */
         public static final int ActionBar_backgroundStacked = 11;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#contentInsetEnd}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#contentInsetEnd}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3854,11 +3854,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:contentInsetEnd
+          @attr name xamarinwebviewapp.xamarinwebviewapp:contentInsetEnd
         */
         public static final int ActionBar_contentInsetEnd = 21;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#contentInsetEndWithActions}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#contentInsetEndWithActions}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3870,11 +3870,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:contentInsetEndWithActions
+          @attr name xamarinwebviewapp.xamarinwebviewapp:contentInsetEndWithActions
         */
         public static final int ActionBar_contentInsetEndWithActions = 25;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#contentInsetLeft}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#contentInsetLeft}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3886,11 +3886,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:contentInsetLeft
+          @attr name xamarinwebviewapp.xamarinwebviewapp:contentInsetLeft
         */
         public static final int ActionBar_contentInsetLeft = 22;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#contentInsetRight}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#contentInsetRight}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3902,11 +3902,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:contentInsetRight
+          @attr name xamarinwebviewapp.xamarinwebviewapp:contentInsetRight
         */
         public static final int ActionBar_contentInsetRight = 23;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#contentInsetStart}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#contentInsetStart}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3918,11 +3918,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:contentInsetStart
+          @attr name xamarinwebviewapp.xamarinwebviewapp:contentInsetStart
         */
         public static final int ActionBar_contentInsetStart = 20;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#contentInsetStartWithNavigation}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#contentInsetStartWithNavigation}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3934,21 +3934,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:contentInsetStartWithNavigation
+          @attr name xamarinwebviewapp.xamarinwebviewapp:contentInsetStartWithNavigation
         */
         public static final int ActionBar_contentInsetStartWithNavigation = 24;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#customNavigationLayout}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#customNavigationLayout}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:customNavigationLayout
+          @attr name xamarinwebviewapp.xamarinwebviewapp:customNavigationLayout
         */
         public static final int ActionBar_customNavigationLayout = 13;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#displayOptions}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#displayOptions}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3966,21 +3966,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>showCustom</code></td><td>0x10</td><td></td></tr>
 <tr><td><code>disableHome</code></td><td>0x20</td><td></td></tr>
 </table>
-          @attr name XamarinWebViewApp.Droid:displayOptions
+          @attr name xamarinwebviewapp.xamarinwebviewapp:displayOptions
         */
         public static final int ActionBar_displayOptions = 3;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#divider}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#divider}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:divider
+          @attr name xamarinwebviewapp.xamarinwebviewapp:divider
         */
         public static final int ActionBar_divider = 9;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#elevation}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#elevation}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3992,11 +3992,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:elevation
+          @attr name xamarinwebviewapp.xamarinwebviewapp:elevation
         */
         public static final int ActionBar_elevation = 26;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#height}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#height}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -4008,11 +4008,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:height
+          @attr name xamarinwebviewapp.xamarinwebviewapp:height
         */
         public static final int ActionBar_height = 0;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#hideOnContentScroll}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#hideOnContentScroll}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -4022,51 +4022,51 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:hideOnContentScroll
+          @attr name xamarinwebviewapp.xamarinwebviewapp:hideOnContentScroll
         */
         public static final int ActionBar_hideOnContentScroll = 19;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#homeAsUpIndicator}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#homeAsUpIndicator}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:homeAsUpIndicator
+          @attr name xamarinwebviewapp.xamarinwebviewapp:homeAsUpIndicator
         */
         public static final int ActionBar_homeAsUpIndicator = 28;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#homeLayout}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#homeLayout}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:homeLayout
+          @attr name xamarinwebviewapp.xamarinwebviewapp:homeLayout
         */
         public static final int ActionBar_homeLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#icon}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#icon}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:icon
+          @attr name xamarinwebviewapp.xamarinwebviewapp:icon
         */
         public static final int ActionBar_icon = 7;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#indeterminateProgressStyle}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#indeterminateProgressStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:indeterminateProgressStyle
+          @attr name xamarinwebviewapp.xamarinwebviewapp:indeterminateProgressStyle
         */
         public static final int ActionBar_indeterminateProgressStyle = 16;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#itemPadding}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#itemPadding}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -4078,21 +4078,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:itemPadding
+          @attr name xamarinwebviewapp.xamarinwebviewapp:itemPadding
         */
         public static final int ActionBar_itemPadding = 18;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#logo}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#logo}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:logo
+          @attr name xamarinwebviewapp.xamarinwebviewapp:logo
         */
         public static final int ActionBar_logo = 8;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#navigationMode}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#navigationMode}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -4106,21 +4106,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>listMode</code></td><td>1</td><td></td></tr>
 <tr><td><code>tabMode</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name XamarinWebViewApp.Droid:navigationMode
+          @attr name xamarinwebviewapp.xamarinwebviewapp:navigationMode
         */
         public static final int ActionBar_navigationMode = 2;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#popupTheme}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:popupTheme
+          @attr name xamarinwebviewapp.xamarinwebviewapp:popupTheme
         */
         public static final int ActionBar_popupTheme = 27;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#progressBarPadding}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#progressBarPadding}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -4132,21 +4132,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:progressBarPadding
+          @attr name xamarinwebviewapp.xamarinwebviewapp:progressBarPadding
         */
         public static final int ActionBar_progressBarPadding = 17;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#progressBarStyle}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#progressBarStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:progressBarStyle
+          @attr name xamarinwebviewapp.xamarinwebviewapp:progressBarStyle
         */
         public static final int ActionBar_progressBarStyle = 15;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#subtitle}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#subtitle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -4156,21 +4156,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:subtitle
+          @attr name xamarinwebviewapp.xamarinwebviewapp:subtitle
         */
         public static final int ActionBar_subtitle = 4;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#subtitleTextStyle}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#subtitleTextStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:subtitleTextStyle
+          @attr name xamarinwebviewapp.xamarinwebviewapp:subtitleTextStyle
         */
         public static final int ActionBar_subtitleTextStyle = 6;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#title}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#title}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -4180,17 +4180,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:title
+          @attr name xamarinwebviewapp.xamarinwebviewapp:title
         */
         public static final int ActionBar_title = 1;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#titleTextStyle}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#titleTextStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:titleTextStyle
+          @attr name xamarinwebviewapp.xamarinwebviewapp:titleTextStyle
         */
         public static final int ActionBar_titleTextStyle = 5;
         /** Attributes that can be used with a ActionBarLayout.
@@ -4242,12 +4242,12 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActionMode_background XamarinWebViewApp.Droid:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_backgroundSplit XamarinWebViewApp.Droid:backgroundSplit}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_closeItemLayout XamarinWebViewApp.Droid:closeItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_height XamarinWebViewApp.Droid:height}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_subtitleTextStyle XamarinWebViewApp.Droid:subtitleTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_titleTextStyle XamarinWebViewApp.Droid:titleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_background xamarinwebviewapp.xamarinwebviewapp:background}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_backgroundSplit xamarinwebviewapp.xamarinwebviewapp:backgroundSplit}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_closeItemLayout xamarinwebviewapp.xamarinwebviewapp:closeItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_height xamarinwebviewapp.xamarinwebviewapp:height}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_subtitleTextStyle xamarinwebviewapp.xamarinwebviewapp:subtitleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_titleTextStyle xamarinwebviewapp.xamarinwebviewapp:titleTextStyle}</code></td><td></td></tr>
            </table>
            @see #ActionMode_background
            @see #ActionMode_backgroundSplit
@@ -4261,17 +4261,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f01002a, 0x7f01003a
         };
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#background}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#background}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:background
+          @attr name xamarinwebviewapp.xamarinwebviewapp:background
         */
         public static final int ActionMode_background = 3;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#backgroundSplit}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#backgroundSplit}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
@@ -4279,21 +4279,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name XamarinWebViewApp.Droid:backgroundSplit
+          @attr name xamarinwebviewapp.xamarinwebviewapp:backgroundSplit
         */
         public static final int ActionMode_backgroundSplit = 4;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#closeItemLayout}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#closeItemLayout}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:closeItemLayout
+          @attr name xamarinwebviewapp.xamarinwebviewapp:closeItemLayout
         */
         public static final int ActionMode_closeItemLayout = 5;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#height}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#height}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
@@ -4305,27 +4305,27 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:height
+          @attr name xamarinwebviewapp.xamarinwebviewapp:height
         */
         public static final int ActionMode_height = 0;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#subtitleTextStyle}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#subtitleTextStyle}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:subtitleTextStyle
+          @attr name xamarinwebviewapp.xamarinwebviewapp:subtitleTextStyle
         */
         public static final int ActionMode_subtitleTextStyle = 2;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#titleTextStyle}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#titleTextStyle}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:titleTextStyle
+          @attr name xamarinwebviewapp.xamarinwebviewapp:titleTextStyle
         */
         public static final int ActionMode_titleTextStyle = 1;
         /** Attributes that can be used with a ActivityChooserView.
@@ -4334,8 +4334,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable XamarinWebViewApp.Droid:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActivityChooserView_initialActivityCount XamarinWebViewApp.Droid:initialActivityCount}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable xamarinwebviewapp.xamarinwebviewapp:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActivityChooserView_initialActivityCount xamarinwebviewapp.xamarinwebviewapp:initialActivityCount}</code></td><td></td></tr>
            </table>
            @see #ActivityChooserView_expandActivityOverflowButtonDrawable
            @see #ActivityChooserView_initialActivityCount
@@ -4344,17 +4344,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f01003b, 0x7f01003c
         };
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#expandActivityOverflowButtonDrawable}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#expandActivityOverflowButtonDrawable}
           attribute's value can be found in the {@link #ActivityChooserView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:expandActivityOverflowButtonDrawable
+          @attr name xamarinwebviewapp.xamarinwebviewapp:expandActivityOverflowButtonDrawable
         */
         public static final int ActivityChooserView_expandActivityOverflowButtonDrawable = 1;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#initialActivityCount}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#initialActivityCount}
           attribute's value can be found in the {@link #ActivityChooserView} array.
 
 
@@ -4364,7 +4364,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:initialActivityCount
+          @attr name xamarinwebviewapp.xamarinwebviewapp:initialActivityCount
         */
         public static final int ActivityChooserView_initialActivityCount = 0;
         /** Attributes that can be used with a AlertDialog.
@@ -4374,12 +4374,12 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AlertDialog_android_layout android:layout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout XamarinWebViewApp.Droid:buttonPanelSideLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_listItemLayout XamarinWebViewApp.Droid:listItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_listLayout XamarinWebViewApp.Droid:listLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout XamarinWebViewApp.Droid:multiChoiceItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_showTitle XamarinWebViewApp.Droid:showTitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout XamarinWebViewApp.Droid:singleChoiceItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout xamarinwebviewapp.xamarinwebviewapp:buttonPanelSideLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_listItemLayout xamarinwebviewapp.xamarinwebviewapp:listItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_listLayout xamarinwebviewapp.xamarinwebviewapp:listLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout xamarinwebviewapp.xamarinwebviewapp:multiChoiceItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_showTitle xamarinwebviewapp.xamarinwebviewapp:showTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout xamarinwebviewapp.xamarinwebviewapp:singleChoiceItemLayout}</code></td><td></td></tr>
            </table>
            @see #AlertDialog_android_layout
            @see #AlertDialog_buttonPanelSideLayout
@@ -4400,47 +4400,47 @@ containing a value of this type.
         */
         public static final int AlertDialog_android_layout = 0;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#buttonPanelSideLayout}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#buttonPanelSideLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:buttonPanelSideLayout
+          @attr name xamarinwebviewapp.xamarinwebviewapp:buttonPanelSideLayout
         */
         public static final int AlertDialog_buttonPanelSideLayout = 1;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#listItemLayout}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#listItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:listItemLayout
+          @attr name xamarinwebviewapp.xamarinwebviewapp:listItemLayout
         */
         public static final int AlertDialog_listItemLayout = 5;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#listLayout}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#listLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:listLayout
+          @attr name xamarinwebviewapp.xamarinwebviewapp:listLayout
         */
         public static final int AlertDialog_listLayout = 2;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#multiChoiceItemLayout}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#multiChoiceItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:multiChoiceItemLayout
+          @attr name xamarinwebviewapp.xamarinwebviewapp:multiChoiceItemLayout
         */
         public static final int AlertDialog_multiChoiceItemLayout = 3;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#showTitle}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#showTitle}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
@@ -4450,17 +4450,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:showTitle
+          @attr name xamarinwebviewapp.xamarinwebviewapp:showTitle
         */
         public static final int AlertDialog_showTitle = 6;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#singleChoiceItemLayout}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#singleChoiceItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:singleChoiceItemLayout
+          @attr name xamarinwebviewapp.xamarinwebviewapp:singleChoiceItemLayout
         */
         public static final int AlertDialog_singleChoiceItemLayout = 4;
         /** Attributes that can be used with a AppBarLayout.
@@ -4470,8 +4470,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AppBarLayout_android_background android:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppBarLayout_elevation XamarinWebViewApp.Droid:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppBarLayout_expanded XamarinWebViewApp.Droid:expanded}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayout_elevation xamarinwebviewapp.xamarinwebviewapp:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayout_expanded xamarinwebviewapp.xamarinwebviewapp:expanded}</code></td><td></td></tr>
            </table>
            @see #AppBarLayout_android_background
            @see #AppBarLayout_elevation
@@ -4487,7 +4487,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int AppBarLayout_android_background = 0;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#elevation}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#elevation}
           attribute's value can be found in the {@link #AppBarLayout} array.
 
 
@@ -4499,11 +4499,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:elevation
+          @attr name xamarinwebviewapp.xamarinwebviewapp:elevation
         */
         public static final int AppBarLayout_elevation = 1;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#expanded}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#expanded}
           attribute's value can be found in the {@link #AppBarLayout} array.
 
 
@@ -4513,7 +4513,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:expanded
+          @attr name xamarinwebviewapp.xamarinwebviewapp:expanded
         */
         public static final int AppBarLayout_expanded = 2;
         /** Attributes that can be used with a AppBarLayoutStates.
@@ -4522,8 +4522,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #AppBarLayoutStates_state_collapsed XamarinWebViewApp.Droid:state_collapsed}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppBarLayoutStates_state_collapsible XamarinWebViewApp.Droid:state_collapsible}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayoutStates_state_collapsed xamarinwebviewapp.xamarinwebviewapp:state_collapsed}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayoutStates_state_collapsible xamarinwebviewapp.xamarinwebviewapp:state_collapsible}</code></td><td></td></tr>
            </table>
            @see #AppBarLayoutStates_state_collapsed
            @see #AppBarLayoutStates_state_collapsible
@@ -4532,7 +4532,7 @@ containing a value of this type.
             0x7f010101, 0x7f010102
         };
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#state_collapsed}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#state_collapsed}
           attribute's value can be found in the {@link #AppBarLayoutStates} array.
 
 
@@ -4542,11 +4542,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:state_collapsed
+          @attr name xamarinwebviewapp.xamarinwebviewapp:state_collapsed
         */
         public static final int AppBarLayoutStates_state_collapsed = 0;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#state_collapsible}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#state_collapsible}
           attribute's value can be found in the {@link #AppBarLayoutStates} array.
 
 
@@ -4556,7 +4556,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:state_collapsible
+          @attr name xamarinwebviewapp.xamarinwebviewapp:state_collapsible
         */
         public static final int AppBarLayoutStates_state_collapsible = 1;
         /** Attributes that can be used with a AppBarLayout_Layout.
@@ -4565,8 +4565,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollFlags XamarinWebViewApp.Droid:layout_scrollFlags}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollInterpolator XamarinWebViewApp.Droid:layout_scrollInterpolator}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollFlags xamarinwebviewapp.xamarinwebviewapp:layout_scrollFlags}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollInterpolator xamarinwebviewapp.xamarinwebviewapp:layout_scrollInterpolator}</code></td><td></td></tr>
            </table>
            @see #AppBarLayout_Layout_layout_scrollFlags
            @see #AppBarLayout_Layout_layout_scrollInterpolator
@@ -4575,7 +4575,7 @@ containing a value of this type.
             0x7f010103, 0x7f010104
         };
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#layout_scrollFlags}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#layout_scrollFlags}
           attribute's value can be found in the {@link #AppBarLayout_Layout} array.
 
 
@@ -4591,17 +4591,17 @@ containing a value of this type.
 <tr><td><code>enterAlwaysCollapsed</code></td><td>0x8</td><td></td></tr>
 <tr><td><code>snap</code></td><td>0x10</td><td></td></tr>
 </table>
-          @attr name XamarinWebViewApp.Droid:layout_scrollFlags
+          @attr name xamarinwebviewapp.xamarinwebviewapp:layout_scrollFlags
         */
         public static final int AppBarLayout_Layout_layout_scrollFlags = 0;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#layout_scrollInterpolator}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#layout_scrollInterpolator}
           attribute's value can be found in the {@link #AppBarLayout_Layout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:layout_scrollInterpolator
+          @attr name xamarinwebviewapp.xamarinwebviewapp:layout_scrollInterpolator
         */
         public static final int AppBarLayout_Layout_layout_scrollInterpolator = 1;
         /** Attributes that can be used with a AppCompatImageView.
@@ -4611,7 +4611,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AppCompatImageView_android_src android:src}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatImageView_srcCompat XamarinWebViewApp.Droid:srcCompat}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatImageView_srcCompat xamarinwebviewapp.xamarinwebviewapp:srcCompat}</code></td><td></td></tr>
            </table>
            @see #AppCompatImageView_android_src
            @see #AppCompatImageView_srcCompat
@@ -4626,13 +4626,13 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int AppCompatImageView_android_src = 0;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#srcCompat}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#srcCompat}
           attribute's value can be found in the {@link #AppCompatImageView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:srcCompat
+          @attr name xamarinwebviewapp.xamarinwebviewapp:srcCompat
         */
         public static final int AppCompatImageView_srcCompat = 1;
         /** Attributes that can be used with a AppCompatSeekBar.
@@ -4642,9 +4642,9 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AppCompatSeekBar_android_thumb android:thumb}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatSeekBar_tickMark XamarinWebViewApp.Droid:tickMark}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatSeekBar_tickMarkTint XamarinWebViewApp.Droid:tickMarkTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatSeekBar_tickMarkTintMode XamarinWebViewApp.Droid:tickMarkTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatSeekBar_tickMark xamarinwebviewapp.xamarinwebviewapp:tickMark}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatSeekBar_tickMarkTint xamarinwebviewapp.xamarinwebviewapp:tickMarkTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatSeekBar_tickMarkTintMode xamarinwebviewapp.xamarinwebviewapp:tickMarkTintMode}</code></td><td></td></tr>
            </table>
            @see #AppCompatSeekBar_android_thumb
            @see #AppCompatSeekBar_tickMark
@@ -4661,17 +4661,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int AppCompatSeekBar_android_thumb = 0;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#tickMark}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#tickMark}
           attribute's value can be found in the {@link #AppCompatSeekBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:tickMark
+          @attr name xamarinwebviewapp.xamarinwebviewapp:tickMark
         */
         public static final int AppCompatSeekBar_tickMark = 1;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#tickMarkTint}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#tickMarkTint}
           attribute's value can be found in the {@link #AppCompatSeekBar} array.
 
 
@@ -4682,11 +4682,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:tickMarkTint
+          @attr name xamarinwebviewapp.xamarinwebviewapp:tickMarkTint
         */
         public static final int AppCompatSeekBar_tickMarkTint = 2;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#tickMarkTintMode}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#tickMarkTintMode}
           attribute's value can be found in the {@link #AppCompatSeekBar} array.
 
 
@@ -4703,7 +4703,7 @@ containing a value of this type.
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 <tr><td><code>add</code></td><td>16</td><td></td></tr>
 </table>
-          @attr name XamarinWebViewApp.Droid:tickMarkTintMode
+          @attr name xamarinwebviewapp.xamarinwebviewapp:tickMarkTintMode
         */
         public static final int AppCompatSeekBar_tickMarkTintMode = 3;
         /** Attributes that can be used with a AppCompatTextHelper.
@@ -4781,7 +4781,7 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AppCompatTextView_android_textAppearance android:textAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTextView_textAllCaps XamarinWebViewApp.Droid:textAllCaps}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTextView_textAllCaps xamarinwebviewapp.xamarinwebviewapp:textAllCaps}</code></td><td></td></tr>
            </table>
            @see #AppCompatTextView_android_textAppearance
            @see #AppCompatTextView_textAllCaps
@@ -4796,14 +4796,14 @@ containing a value of this type.
         */
         public static final int AppCompatTextView_android_textAppearance = 0;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#textAllCaps}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#textAllCaps}
           attribute's value can be found in the {@link #AppCompatTextView} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
-          @attr name XamarinWebViewApp.Droid:textAllCaps
+          @attr name xamarinwebviewapp.xamarinwebviewapp:textAllCaps
         */
         public static final int AppCompatTextView_textAllCaps = 1;
         /** Attributes that can be used with a AppCompatTheme.
@@ -4812,121 +4812,121 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarDivider XamarinWebViewApp.Droid:actionBarDivider}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarItemBackground XamarinWebViewApp.Droid:actionBarItemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarPopupTheme XamarinWebViewApp.Droid:actionBarPopupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarSize XamarinWebViewApp.Droid:actionBarSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarSplitStyle XamarinWebViewApp.Droid:actionBarSplitStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarStyle XamarinWebViewApp.Droid:actionBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarTabBarStyle XamarinWebViewApp.Droid:actionBarTabBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarTabStyle XamarinWebViewApp.Droid:actionBarTabStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarTabTextStyle XamarinWebViewApp.Droid:actionBarTabTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarTheme XamarinWebViewApp.Droid:actionBarTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarWidgetTheme XamarinWebViewApp.Droid:actionBarWidgetTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionButtonStyle XamarinWebViewApp.Droid:actionButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionDropDownStyle XamarinWebViewApp.Droid:actionDropDownStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionMenuTextAppearance XamarinWebViewApp.Droid:actionMenuTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionMenuTextColor XamarinWebViewApp.Droid:actionMenuTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeBackground XamarinWebViewApp.Droid:actionModeBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeCloseButtonStyle XamarinWebViewApp.Droid:actionModeCloseButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeCloseDrawable XamarinWebViewApp.Droid:actionModeCloseDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeCopyDrawable XamarinWebViewApp.Droid:actionModeCopyDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeCutDrawable XamarinWebViewApp.Droid:actionModeCutDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeFindDrawable XamarinWebViewApp.Droid:actionModeFindDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModePasteDrawable XamarinWebViewApp.Droid:actionModePasteDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModePopupWindowStyle XamarinWebViewApp.Droid:actionModePopupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeSelectAllDrawable XamarinWebViewApp.Droid:actionModeSelectAllDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeShareDrawable XamarinWebViewApp.Droid:actionModeShareDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeSplitBackground XamarinWebViewApp.Droid:actionModeSplitBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeStyle XamarinWebViewApp.Droid:actionModeStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeWebSearchDrawable XamarinWebViewApp.Droid:actionModeWebSearchDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionOverflowButtonStyle XamarinWebViewApp.Droid:actionOverflowButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionOverflowMenuStyle XamarinWebViewApp.Droid:actionOverflowMenuStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_activityChooserViewStyle XamarinWebViewApp.Droid:activityChooserViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_alertDialogButtonGroupStyle XamarinWebViewApp.Droid:alertDialogButtonGroupStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_alertDialogCenterButtons XamarinWebViewApp.Droid:alertDialogCenterButtons}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_alertDialogStyle XamarinWebViewApp.Droid:alertDialogStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_alertDialogTheme XamarinWebViewApp.Droid:alertDialogTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarDivider xamarinwebviewapp.xamarinwebviewapp:actionBarDivider}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarItemBackground xamarinwebviewapp.xamarinwebviewapp:actionBarItemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarPopupTheme xamarinwebviewapp.xamarinwebviewapp:actionBarPopupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarSize xamarinwebviewapp.xamarinwebviewapp:actionBarSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarSplitStyle xamarinwebviewapp.xamarinwebviewapp:actionBarSplitStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarStyle xamarinwebviewapp.xamarinwebviewapp:actionBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarTabBarStyle xamarinwebviewapp.xamarinwebviewapp:actionBarTabBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarTabStyle xamarinwebviewapp.xamarinwebviewapp:actionBarTabStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarTabTextStyle xamarinwebviewapp.xamarinwebviewapp:actionBarTabTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarTheme xamarinwebviewapp.xamarinwebviewapp:actionBarTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarWidgetTheme xamarinwebviewapp.xamarinwebviewapp:actionBarWidgetTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionButtonStyle xamarinwebviewapp.xamarinwebviewapp:actionButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionDropDownStyle xamarinwebviewapp.xamarinwebviewapp:actionDropDownStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionMenuTextAppearance xamarinwebviewapp.xamarinwebviewapp:actionMenuTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionMenuTextColor xamarinwebviewapp.xamarinwebviewapp:actionMenuTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeBackground xamarinwebviewapp.xamarinwebviewapp:actionModeBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeCloseButtonStyle xamarinwebviewapp.xamarinwebviewapp:actionModeCloseButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeCloseDrawable xamarinwebviewapp.xamarinwebviewapp:actionModeCloseDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeCopyDrawable xamarinwebviewapp.xamarinwebviewapp:actionModeCopyDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeCutDrawable xamarinwebviewapp.xamarinwebviewapp:actionModeCutDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeFindDrawable xamarinwebviewapp.xamarinwebviewapp:actionModeFindDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModePasteDrawable xamarinwebviewapp.xamarinwebviewapp:actionModePasteDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModePopupWindowStyle xamarinwebviewapp.xamarinwebviewapp:actionModePopupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeSelectAllDrawable xamarinwebviewapp.xamarinwebviewapp:actionModeSelectAllDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeShareDrawable xamarinwebviewapp.xamarinwebviewapp:actionModeShareDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeSplitBackground xamarinwebviewapp.xamarinwebviewapp:actionModeSplitBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeStyle xamarinwebviewapp.xamarinwebviewapp:actionModeStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeWebSearchDrawable xamarinwebviewapp.xamarinwebviewapp:actionModeWebSearchDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionOverflowButtonStyle xamarinwebviewapp.xamarinwebviewapp:actionOverflowButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionOverflowMenuStyle xamarinwebviewapp.xamarinwebviewapp:actionOverflowMenuStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_activityChooserViewStyle xamarinwebviewapp.xamarinwebviewapp:activityChooserViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_alertDialogButtonGroupStyle xamarinwebviewapp.xamarinwebviewapp:alertDialogButtonGroupStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_alertDialogCenterButtons xamarinwebviewapp.xamarinwebviewapp:alertDialogCenterButtons}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_alertDialogStyle xamarinwebviewapp.xamarinwebviewapp:alertDialogStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_alertDialogTheme xamarinwebviewapp.xamarinwebviewapp:alertDialogTheme}</code></td><td></td></tr>
            <tr><td><code>{@link #AppCompatTheme_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #AppCompatTheme_android_windowIsFloating android:windowIsFloating}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_autoCompleteTextViewStyle XamarinWebViewApp.Droid:autoCompleteTextViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_borderlessButtonStyle XamarinWebViewApp.Droid:borderlessButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarButtonStyle XamarinWebViewApp.Droid:buttonBarButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarNegativeButtonStyle XamarinWebViewApp.Droid:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarNeutralButtonStyle XamarinWebViewApp.Droid:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarPositiveButtonStyle XamarinWebViewApp.Droid:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarStyle XamarinWebViewApp.Droid:buttonBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonStyle XamarinWebViewApp.Droid:buttonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonStyleSmall XamarinWebViewApp.Droid:buttonStyleSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_checkboxStyle XamarinWebViewApp.Droid:checkboxStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_checkedTextViewStyle XamarinWebViewApp.Droid:checkedTextViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorAccent XamarinWebViewApp.Droid:colorAccent}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorBackgroundFloating XamarinWebViewApp.Droid:colorBackgroundFloating}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorButtonNormal XamarinWebViewApp.Droid:colorButtonNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorControlActivated XamarinWebViewApp.Droid:colorControlActivated}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorControlHighlight XamarinWebViewApp.Droid:colorControlHighlight}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorControlNormal XamarinWebViewApp.Droid:colorControlNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorPrimary XamarinWebViewApp.Droid:colorPrimary}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorPrimaryDark XamarinWebViewApp.Droid:colorPrimaryDark}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorSwitchThumbNormal XamarinWebViewApp.Droid:colorSwitchThumbNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_controlBackground XamarinWebViewApp.Droid:controlBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dialogPreferredPadding XamarinWebViewApp.Droid:dialogPreferredPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dialogTheme XamarinWebViewApp.Droid:dialogTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dividerHorizontal XamarinWebViewApp.Droid:dividerHorizontal}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dividerVertical XamarinWebViewApp.Droid:dividerVertical}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dropDownListViewStyle XamarinWebViewApp.Droid:dropDownListViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dropdownListPreferredItemHeight XamarinWebViewApp.Droid:dropdownListPreferredItemHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_editTextBackground XamarinWebViewApp.Droid:editTextBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_editTextColor XamarinWebViewApp.Droid:editTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_editTextStyle XamarinWebViewApp.Droid:editTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_homeAsUpIndicator XamarinWebViewApp.Droid:homeAsUpIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_imageButtonStyle XamarinWebViewApp.Droid:imageButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listChoiceBackgroundIndicator XamarinWebViewApp.Droid:listChoiceBackgroundIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listDividerAlertDialog XamarinWebViewApp.Droid:listDividerAlertDialog}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listMenuViewStyle XamarinWebViewApp.Droid:listMenuViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPopupWindowStyle XamarinWebViewApp.Droid:listPopupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeight XamarinWebViewApp.Droid:listPreferredItemHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightLarge XamarinWebViewApp.Droid:listPreferredItemHeightLarge}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightSmall XamarinWebViewApp.Droid:listPreferredItemHeightSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingLeft XamarinWebViewApp.Droid:listPreferredItemPaddingLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingRight XamarinWebViewApp.Droid:listPreferredItemPaddingRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_panelBackground XamarinWebViewApp.Droid:panelBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_panelMenuListTheme XamarinWebViewApp.Droid:panelMenuListTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_panelMenuListWidth XamarinWebViewApp.Droid:panelMenuListWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_popupMenuStyle XamarinWebViewApp.Droid:popupMenuStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_popupWindowStyle XamarinWebViewApp.Droid:popupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_radioButtonStyle XamarinWebViewApp.Droid:radioButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_ratingBarStyle XamarinWebViewApp.Droid:ratingBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_ratingBarStyleIndicator XamarinWebViewApp.Droid:ratingBarStyleIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_ratingBarStyleSmall XamarinWebViewApp.Droid:ratingBarStyleSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_searchViewStyle XamarinWebViewApp.Droid:searchViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_seekBarStyle XamarinWebViewApp.Droid:seekBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_selectableItemBackground XamarinWebViewApp.Droid:selectableItemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_selectableItemBackgroundBorderless XamarinWebViewApp.Droid:selectableItemBackgroundBorderless}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_spinnerDropDownItemStyle XamarinWebViewApp.Droid:spinnerDropDownItemStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_spinnerStyle XamarinWebViewApp.Droid:spinnerStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_switchStyle XamarinWebViewApp.Droid:switchStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceLargePopupMenu XamarinWebViewApp.Droid:textAppearanceLargePopupMenu}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItem XamarinWebViewApp.Droid:textAppearanceListItem}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSmall XamarinWebViewApp.Droid:textAppearanceListItemSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearancePopupMenuHeader XamarinWebViewApp.Droid:textAppearancePopupMenuHeader}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultSubtitle XamarinWebViewApp.Droid:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultTitle XamarinWebViewApp.Droid:textAppearanceSearchResultTitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceSmallPopupMenu XamarinWebViewApp.Droid:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textColorAlertDialogListItem XamarinWebViewApp.Droid:textColorAlertDialogListItem}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textColorSearchUrl XamarinWebViewApp.Droid:textColorSearchUrl}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_toolbarNavigationButtonStyle XamarinWebViewApp.Droid:toolbarNavigationButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_toolbarStyle XamarinWebViewApp.Droid:toolbarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowActionBar XamarinWebViewApp.Droid:windowActionBar}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowActionBarOverlay XamarinWebViewApp.Droid:windowActionBarOverlay}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowActionModeOverlay XamarinWebViewApp.Droid:windowActionModeOverlay}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMajor XamarinWebViewApp.Droid:windowFixedHeightMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMinor XamarinWebViewApp.Droid:windowFixedHeightMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMajor XamarinWebViewApp.Droid:windowFixedWidthMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMinor XamarinWebViewApp.Droid:windowFixedWidthMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowMinWidthMajor XamarinWebViewApp.Droid:windowMinWidthMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowMinWidthMinor XamarinWebViewApp.Droid:windowMinWidthMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowNoTitle XamarinWebViewApp.Droid:windowNoTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_autoCompleteTextViewStyle xamarinwebviewapp.xamarinwebviewapp:autoCompleteTextViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_borderlessButtonStyle xamarinwebviewapp.xamarinwebviewapp:borderlessButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarButtonStyle xamarinwebviewapp.xamarinwebviewapp:buttonBarButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarNegativeButtonStyle xamarinwebviewapp.xamarinwebviewapp:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarNeutralButtonStyle xamarinwebviewapp.xamarinwebviewapp:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarPositiveButtonStyle xamarinwebviewapp.xamarinwebviewapp:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarStyle xamarinwebviewapp.xamarinwebviewapp:buttonBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonStyle xamarinwebviewapp.xamarinwebviewapp:buttonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonStyleSmall xamarinwebviewapp.xamarinwebviewapp:buttonStyleSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_checkboxStyle xamarinwebviewapp.xamarinwebviewapp:checkboxStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_checkedTextViewStyle xamarinwebviewapp.xamarinwebviewapp:checkedTextViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorAccent xamarinwebviewapp.xamarinwebviewapp:colorAccent}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorBackgroundFloating xamarinwebviewapp.xamarinwebviewapp:colorBackgroundFloating}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorButtonNormal xamarinwebviewapp.xamarinwebviewapp:colorButtonNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorControlActivated xamarinwebviewapp.xamarinwebviewapp:colorControlActivated}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorControlHighlight xamarinwebviewapp.xamarinwebviewapp:colorControlHighlight}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorControlNormal xamarinwebviewapp.xamarinwebviewapp:colorControlNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorPrimary xamarinwebviewapp.xamarinwebviewapp:colorPrimary}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorPrimaryDark xamarinwebviewapp.xamarinwebviewapp:colorPrimaryDark}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorSwitchThumbNormal xamarinwebviewapp.xamarinwebviewapp:colorSwitchThumbNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_controlBackground xamarinwebviewapp.xamarinwebviewapp:controlBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dialogPreferredPadding xamarinwebviewapp.xamarinwebviewapp:dialogPreferredPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dialogTheme xamarinwebviewapp.xamarinwebviewapp:dialogTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dividerHorizontal xamarinwebviewapp.xamarinwebviewapp:dividerHorizontal}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dividerVertical xamarinwebviewapp.xamarinwebviewapp:dividerVertical}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dropDownListViewStyle xamarinwebviewapp.xamarinwebviewapp:dropDownListViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dropdownListPreferredItemHeight xamarinwebviewapp.xamarinwebviewapp:dropdownListPreferredItemHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_editTextBackground xamarinwebviewapp.xamarinwebviewapp:editTextBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_editTextColor xamarinwebviewapp.xamarinwebviewapp:editTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_editTextStyle xamarinwebviewapp.xamarinwebviewapp:editTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_homeAsUpIndicator xamarinwebviewapp.xamarinwebviewapp:homeAsUpIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_imageButtonStyle xamarinwebviewapp.xamarinwebviewapp:imageButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listChoiceBackgroundIndicator xamarinwebviewapp.xamarinwebviewapp:listChoiceBackgroundIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listDividerAlertDialog xamarinwebviewapp.xamarinwebviewapp:listDividerAlertDialog}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listMenuViewStyle xamarinwebviewapp.xamarinwebviewapp:listMenuViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPopupWindowStyle xamarinwebviewapp.xamarinwebviewapp:listPopupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeight xamarinwebviewapp.xamarinwebviewapp:listPreferredItemHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightLarge xamarinwebviewapp.xamarinwebviewapp:listPreferredItemHeightLarge}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightSmall xamarinwebviewapp.xamarinwebviewapp:listPreferredItemHeightSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingLeft xamarinwebviewapp.xamarinwebviewapp:listPreferredItemPaddingLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingRight xamarinwebviewapp.xamarinwebviewapp:listPreferredItemPaddingRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_panelBackground xamarinwebviewapp.xamarinwebviewapp:panelBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_panelMenuListTheme xamarinwebviewapp.xamarinwebviewapp:panelMenuListTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_panelMenuListWidth xamarinwebviewapp.xamarinwebviewapp:panelMenuListWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_popupMenuStyle xamarinwebviewapp.xamarinwebviewapp:popupMenuStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_popupWindowStyle xamarinwebviewapp.xamarinwebviewapp:popupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_radioButtonStyle xamarinwebviewapp.xamarinwebviewapp:radioButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_ratingBarStyle xamarinwebviewapp.xamarinwebviewapp:ratingBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_ratingBarStyleIndicator xamarinwebviewapp.xamarinwebviewapp:ratingBarStyleIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_ratingBarStyleSmall xamarinwebviewapp.xamarinwebviewapp:ratingBarStyleSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_searchViewStyle xamarinwebviewapp.xamarinwebviewapp:searchViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_seekBarStyle xamarinwebviewapp.xamarinwebviewapp:seekBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_selectableItemBackground xamarinwebviewapp.xamarinwebviewapp:selectableItemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_selectableItemBackgroundBorderless xamarinwebviewapp.xamarinwebviewapp:selectableItemBackgroundBorderless}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_spinnerDropDownItemStyle xamarinwebviewapp.xamarinwebviewapp:spinnerDropDownItemStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_spinnerStyle xamarinwebviewapp.xamarinwebviewapp:spinnerStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_switchStyle xamarinwebviewapp.xamarinwebviewapp:switchStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceLargePopupMenu xamarinwebviewapp.xamarinwebviewapp:textAppearanceLargePopupMenu}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItem xamarinwebviewapp.xamarinwebviewapp:textAppearanceListItem}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSmall xamarinwebviewapp.xamarinwebviewapp:textAppearanceListItemSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearancePopupMenuHeader xamarinwebviewapp.xamarinwebviewapp:textAppearancePopupMenuHeader}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultSubtitle xamarinwebviewapp.xamarinwebviewapp:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultTitle xamarinwebviewapp.xamarinwebviewapp:textAppearanceSearchResultTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceSmallPopupMenu xamarinwebviewapp.xamarinwebviewapp:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textColorAlertDialogListItem xamarinwebviewapp.xamarinwebviewapp:textColorAlertDialogListItem}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textColorSearchUrl xamarinwebviewapp.xamarinwebviewapp:textColorSearchUrl}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_toolbarNavigationButtonStyle xamarinwebviewapp.xamarinwebviewapp:toolbarNavigationButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_toolbarStyle xamarinwebviewapp.xamarinwebviewapp:toolbarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowActionBar xamarinwebviewapp.xamarinwebviewapp:windowActionBar}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowActionBarOverlay xamarinwebviewapp.xamarinwebviewapp:windowActionBarOverlay}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowActionModeOverlay xamarinwebviewapp.xamarinwebviewapp:windowActionModeOverlay}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMajor xamarinwebviewapp.xamarinwebviewapp:windowFixedHeightMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMinor xamarinwebviewapp.xamarinwebviewapp:windowFixedHeightMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMajor xamarinwebviewapp.xamarinwebviewapp:windowFixedWidthMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMinor xamarinwebviewapp.xamarinwebviewapp:windowFixedWidthMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowMinWidthMajor xamarinwebviewapp.xamarinwebviewapp:windowMinWidthMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowMinWidthMinor xamarinwebviewapp.xamarinwebviewapp:windowMinWidthMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowNoTitle xamarinwebviewapp.xamarinwebviewapp:windowNoTitle}</code></td><td></td></tr>
            </table>
            @see #AppCompatTheme_actionBarDivider
            @see #AppCompatTheme_actionBarItemBackground
@@ -5076,37 +5076,37 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f0100b6, 0x7f0100b7, 0x7f0100b8
         };
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#actionBarDivider}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#actionBarDivider}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:actionBarDivider
+          @attr name xamarinwebviewapp.xamarinwebviewapp:actionBarDivider
         */
         public static final int AppCompatTheme_actionBarDivider = 23;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#actionBarItemBackground}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#actionBarItemBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:actionBarItemBackground
+          @attr name xamarinwebviewapp.xamarinwebviewapp:actionBarItemBackground
         */
         public static final int AppCompatTheme_actionBarItemBackground = 24;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#actionBarPopupTheme}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#actionBarPopupTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:actionBarPopupTheme
+          @attr name xamarinwebviewapp.xamarinwebviewapp:actionBarPopupTheme
         */
         public static final int AppCompatTheme_actionBarPopupTheme = 17;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#actionBarSize}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#actionBarSize}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5126,111 +5126,111 @@ containing a value of this type.
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>wrap_content</code></td><td>0</td><td></td></tr>
 </table>
-          @attr name XamarinWebViewApp.Droid:actionBarSize
+          @attr name xamarinwebviewapp.xamarinwebviewapp:actionBarSize
         */
         public static final int AppCompatTheme_actionBarSize = 22;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#actionBarSplitStyle}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#actionBarSplitStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:actionBarSplitStyle
+          @attr name xamarinwebviewapp.xamarinwebviewapp:actionBarSplitStyle
         */
         public static final int AppCompatTheme_actionBarSplitStyle = 19;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#actionBarStyle}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#actionBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:actionBarStyle
+          @attr name xamarinwebviewapp.xamarinwebviewapp:actionBarStyle
         */
         public static final int AppCompatTheme_actionBarStyle = 18;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#actionBarTabBarStyle}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#actionBarTabBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:actionBarTabBarStyle
+          @attr name xamarinwebviewapp.xamarinwebviewapp:actionBarTabBarStyle
         */
         public static final int AppCompatTheme_actionBarTabBarStyle = 13;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#actionBarTabStyle}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#actionBarTabStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:actionBarTabStyle
+          @attr name xamarinwebviewapp.xamarinwebviewapp:actionBarTabStyle
         */
         public static final int AppCompatTheme_actionBarTabStyle = 12;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#actionBarTabTextStyle}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#actionBarTabTextStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:actionBarTabTextStyle
+          @attr name xamarinwebviewapp.xamarinwebviewapp:actionBarTabTextStyle
         */
         public static final int AppCompatTheme_actionBarTabTextStyle = 14;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#actionBarTheme}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#actionBarTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:actionBarTheme
+          @attr name xamarinwebviewapp.xamarinwebviewapp:actionBarTheme
         */
         public static final int AppCompatTheme_actionBarTheme = 20;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#actionBarWidgetTheme}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#actionBarWidgetTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:actionBarWidgetTheme
+          @attr name xamarinwebviewapp.xamarinwebviewapp:actionBarWidgetTheme
         */
         public static final int AppCompatTheme_actionBarWidgetTheme = 21;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#actionButtonStyle}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#actionButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:actionButtonStyle
+          @attr name xamarinwebviewapp.xamarinwebviewapp:actionButtonStyle
         */
         public static final int AppCompatTheme_actionButtonStyle = 50;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#actionDropDownStyle}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#actionDropDownStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:actionDropDownStyle
+          @attr name xamarinwebviewapp.xamarinwebviewapp:actionDropDownStyle
         */
         public static final int AppCompatTheme_actionDropDownStyle = 46;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#actionMenuTextAppearance}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#actionMenuTextAppearance}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:actionMenuTextAppearance
+          @attr name xamarinwebviewapp.xamarinwebviewapp:actionMenuTextAppearance
         */
         public static final int AppCompatTheme_actionMenuTextAppearance = 25;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#actionMenuTextColor}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#actionMenuTextColor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5238,181 +5238,181 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name XamarinWebViewApp.Droid:actionMenuTextColor
+          @attr name xamarinwebviewapp.xamarinwebviewapp:actionMenuTextColor
         */
         public static final int AppCompatTheme_actionMenuTextColor = 26;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#actionModeBackground}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#actionModeBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:actionModeBackground
+          @attr name xamarinwebviewapp.xamarinwebviewapp:actionModeBackground
         */
         public static final int AppCompatTheme_actionModeBackground = 29;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#actionModeCloseButtonStyle}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#actionModeCloseButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:actionModeCloseButtonStyle
+          @attr name xamarinwebviewapp.xamarinwebviewapp:actionModeCloseButtonStyle
         */
         public static final int AppCompatTheme_actionModeCloseButtonStyle = 28;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#actionModeCloseDrawable}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#actionModeCloseDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:actionModeCloseDrawable
+          @attr name xamarinwebviewapp.xamarinwebviewapp:actionModeCloseDrawable
         */
         public static final int AppCompatTheme_actionModeCloseDrawable = 31;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#actionModeCopyDrawable}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#actionModeCopyDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:actionModeCopyDrawable
+          @attr name xamarinwebviewapp.xamarinwebviewapp:actionModeCopyDrawable
         */
         public static final int AppCompatTheme_actionModeCopyDrawable = 33;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#actionModeCutDrawable}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#actionModeCutDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:actionModeCutDrawable
+          @attr name xamarinwebviewapp.xamarinwebviewapp:actionModeCutDrawable
         */
         public static final int AppCompatTheme_actionModeCutDrawable = 32;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#actionModeFindDrawable}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#actionModeFindDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:actionModeFindDrawable
+          @attr name xamarinwebviewapp.xamarinwebviewapp:actionModeFindDrawable
         */
         public static final int AppCompatTheme_actionModeFindDrawable = 37;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#actionModePasteDrawable}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#actionModePasteDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:actionModePasteDrawable
+          @attr name xamarinwebviewapp.xamarinwebviewapp:actionModePasteDrawable
         */
         public static final int AppCompatTheme_actionModePasteDrawable = 34;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#actionModePopupWindowStyle}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#actionModePopupWindowStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:actionModePopupWindowStyle
+          @attr name xamarinwebviewapp.xamarinwebviewapp:actionModePopupWindowStyle
         */
         public static final int AppCompatTheme_actionModePopupWindowStyle = 39;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#actionModeSelectAllDrawable}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#actionModeSelectAllDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:actionModeSelectAllDrawable
+          @attr name xamarinwebviewapp.xamarinwebviewapp:actionModeSelectAllDrawable
         */
         public static final int AppCompatTheme_actionModeSelectAllDrawable = 35;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#actionModeShareDrawable}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#actionModeShareDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:actionModeShareDrawable
+          @attr name xamarinwebviewapp.xamarinwebviewapp:actionModeShareDrawable
         */
         public static final int AppCompatTheme_actionModeShareDrawable = 36;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#actionModeSplitBackground}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#actionModeSplitBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:actionModeSplitBackground
+          @attr name xamarinwebviewapp.xamarinwebviewapp:actionModeSplitBackground
         */
         public static final int AppCompatTheme_actionModeSplitBackground = 30;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#actionModeStyle}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#actionModeStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:actionModeStyle
+          @attr name xamarinwebviewapp.xamarinwebviewapp:actionModeStyle
         */
         public static final int AppCompatTheme_actionModeStyle = 27;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#actionModeWebSearchDrawable}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#actionModeWebSearchDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:actionModeWebSearchDrawable
+          @attr name xamarinwebviewapp.xamarinwebviewapp:actionModeWebSearchDrawable
         */
         public static final int AppCompatTheme_actionModeWebSearchDrawable = 38;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#actionOverflowButtonStyle}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#actionOverflowButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:actionOverflowButtonStyle
+          @attr name xamarinwebviewapp.xamarinwebviewapp:actionOverflowButtonStyle
         */
         public static final int AppCompatTheme_actionOverflowButtonStyle = 15;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#actionOverflowMenuStyle}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#actionOverflowMenuStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:actionOverflowMenuStyle
+          @attr name xamarinwebviewapp.xamarinwebviewapp:actionOverflowMenuStyle
         */
         public static final int AppCompatTheme_actionOverflowMenuStyle = 16;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#activityChooserViewStyle}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#activityChooserViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:activityChooserViewStyle
+          @attr name xamarinwebviewapp.xamarinwebviewapp:activityChooserViewStyle
         */
         public static final int AppCompatTheme_activityChooserViewStyle = 58;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#alertDialogButtonGroupStyle}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#alertDialogButtonGroupStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:alertDialogButtonGroupStyle
+          @attr name xamarinwebviewapp.xamarinwebviewapp:alertDialogButtonGroupStyle
         */
         public static final int AppCompatTheme_alertDialogButtonGroupStyle = 94;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#alertDialogCenterButtons}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#alertDialogCenterButtons}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5422,27 +5422,27 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:alertDialogCenterButtons
+          @attr name xamarinwebviewapp.xamarinwebviewapp:alertDialogCenterButtons
         */
         public static final int AppCompatTheme_alertDialogCenterButtons = 95;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#alertDialogStyle}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#alertDialogStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:alertDialogStyle
+          @attr name xamarinwebviewapp.xamarinwebviewapp:alertDialogStyle
         */
         public static final int AppCompatTheme_alertDialogStyle = 93;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#alertDialogTheme}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#alertDialogTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:alertDialogTheme
+          @attr name xamarinwebviewapp.xamarinwebviewapp:alertDialogTheme
         */
         public static final int AppCompatTheme_alertDialogTheme = 96;
         /**
@@ -5458,117 +5458,117 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int AppCompatTheme_android_windowIsFloating = 0;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#autoCompleteTextViewStyle}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#autoCompleteTextViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:autoCompleteTextViewStyle
+          @attr name xamarinwebviewapp.xamarinwebviewapp:autoCompleteTextViewStyle
         */
         public static final int AppCompatTheme_autoCompleteTextViewStyle = 101;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#borderlessButtonStyle}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#borderlessButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:borderlessButtonStyle
+          @attr name xamarinwebviewapp.xamarinwebviewapp:borderlessButtonStyle
         */
         public static final int AppCompatTheme_borderlessButtonStyle = 55;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#buttonBarButtonStyle}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#buttonBarButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:buttonBarButtonStyle
+          @attr name xamarinwebviewapp.xamarinwebviewapp:buttonBarButtonStyle
         */
         public static final int AppCompatTheme_buttonBarButtonStyle = 52;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#buttonBarNegativeButtonStyle}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#buttonBarNegativeButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:buttonBarNegativeButtonStyle
+          @attr name xamarinwebviewapp.xamarinwebviewapp:buttonBarNegativeButtonStyle
         */
         public static final int AppCompatTheme_buttonBarNegativeButtonStyle = 99;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#buttonBarNeutralButtonStyle}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#buttonBarNeutralButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:buttonBarNeutralButtonStyle
+          @attr name xamarinwebviewapp.xamarinwebviewapp:buttonBarNeutralButtonStyle
         */
         public static final int AppCompatTheme_buttonBarNeutralButtonStyle = 100;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#buttonBarPositiveButtonStyle}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#buttonBarPositiveButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:buttonBarPositiveButtonStyle
+          @attr name xamarinwebviewapp.xamarinwebviewapp:buttonBarPositiveButtonStyle
         */
         public static final int AppCompatTheme_buttonBarPositiveButtonStyle = 98;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#buttonBarStyle}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#buttonBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:buttonBarStyle
+          @attr name xamarinwebviewapp.xamarinwebviewapp:buttonBarStyle
         */
         public static final int AppCompatTheme_buttonBarStyle = 51;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#buttonStyle}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#buttonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:buttonStyle
+          @attr name xamarinwebviewapp.xamarinwebviewapp:buttonStyle
         */
         public static final int AppCompatTheme_buttonStyle = 102;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#buttonStyleSmall}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#buttonStyleSmall}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:buttonStyleSmall
+          @attr name xamarinwebviewapp.xamarinwebviewapp:buttonStyleSmall
         */
         public static final int AppCompatTheme_buttonStyleSmall = 103;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#checkboxStyle}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#checkboxStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:checkboxStyle
+          @attr name xamarinwebviewapp.xamarinwebviewapp:checkboxStyle
         */
         public static final int AppCompatTheme_checkboxStyle = 104;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#checkedTextViewStyle}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#checkedTextViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:checkedTextViewStyle
+          @attr name xamarinwebviewapp.xamarinwebviewapp:checkedTextViewStyle
         */
         public static final int AppCompatTheme_checkedTextViewStyle = 105;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#colorAccent}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#colorAccent}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5579,11 +5579,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:colorAccent
+          @attr name xamarinwebviewapp.xamarinwebviewapp:colorAccent
         */
         public static final int AppCompatTheme_colorAccent = 85;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#colorBackgroundFloating}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#colorBackgroundFloating}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5594,11 +5594,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:colorBackgroundFloating
+          @attr name xamarinwebviewapp.xamarinwebviewapp:colorBackgroundFloating
         */
         public static final int AppCompatTheme_colorBackgroundFloating = 92;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#colorButtonNormal}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#colorButtonNormal}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5609,11 +5609,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:colorButtonNormal
+          @attr name xamarinwebviewapp.xamarinwebviewapp:colorButtonNormal
         */
         public static final int AppCompatTheme_colorButtonNormal = 89;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#colorControlActivated}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#colorControlActivated}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5624,11 +5624,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:colorControlActivated
+          @attr name xamarinwebviewapp.xamarinwebviewapp:colorControlActivated
         */
         public static final int AppCompatTheme_colorControlActivated = 87;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#colorControlHighlight}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#colorControlHighlight}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5639,11 +5639,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:colorControlHighlight
+          @attr name xamarinwebviewapp.xamarinwebviewapp:colorControlHighlight
         */
         public static final int AppCompatTheme_colorControlHighlight = 88;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#colorControlNormal}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#colorControlNormal}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5654,11 +5654,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:colorControlNormal
+          @attr name xamarinwebviewapp.xamarinwebviewapp:colorControlNormal
         */
         public static final int AppCompatTheme_colorControlNormal = 86;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#colorPrimary}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#colorPrimary}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5669,11 +5669,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:colorPrimary
+          @attr name xamarinwebviewapp.xamarinwebviewapp:colorPrimary
         */
         public static final int AppCompatTheme_colorPrimary = 83;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#colorPrimaryDark}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#colorPrimaryDark}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5684,11 +5684,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:colorPrimaryDark
+          @attr name xamarinwebviewapp.xamarinwebviewapp:colorPrimaryDark
         */
         public static final int AppCompatTheme_colorPrimaryDark = 84;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#colorSwitchThumbNormal}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#colorSwitchThumbNormal}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5699,21 +5699,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:colorSwitchThumbNormal
+          @attr name xamarinwebviewapp.xamarinwebviewapp:colorSwitchThumbNormal
         */
         public static final int AppCompatTheme_colorSwitchThumbNormal = 90;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#controlBackground}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#controlBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:controlBackground
+          @attr name xamarinwebviewapp.xamarinwebviewapp:controlBackground
         */
         public static final int AppCompatTheme_controlBackground = 91;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#dialogPreferredPadding}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#dialogPreferredPadding}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5725,51 +5725,51 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:dialogPreferredPadding
+          @attr name xamarinwebviewapp.xamarinwebviewapp:dialogPreferredPadding
         */
         public static final int AppCompatTheme_dialogPreferredPadding = 44;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#dialogTheme}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#dialogTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:dialogTheme
+          @attr name xamarinwebviewapp.xamarinwebviewapp:dialogTheme
         */
         public static final int AppCompatTheme_dialogTheme = 43;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#dividerHorizontal}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#dividerHorizontal}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:dividerHorizontal
+          @attr name xamarinwebviewapp.xamarinwebviewapp:dividerHorizontal
         */
         public static final int AppCompatTheme_dividerHorizontal = 57;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#dividerVertical}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#dividerVertical}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:dividerVertical
+          @attr name xamarinwebviewapp.xamarinwebviewapp:dividerVertical
         */
         public static final int AppCompatTheme_dividerVertical = 56;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#dropDownListViewStyle}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#dropDownListViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:dropDownListViewStyle
+          @attr name xamarinwebviewapp.xamarinwebviewapp:dropDownListViewStyle
         */
         public static final int AppCompatTheme_dropDownListViewStyle = 75;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#dropdownListPreferredItemHeight}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#dropdownListPreferredItemHeight}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5781,21 +5781,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:dropdownListPreferredItemHeight
+          @attr name xamarinwebviewapp.xamarinwebviewapp:dropdownListPreferredItemHeight
         */
         public static final int AppCompatTheme_dropdownListPreferredItemHeight = 47;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#editTextBackground}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#editTextBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:editTextBackground
+          @attr name xamarinwebviewapp.xamarinwebviewapp:editTextBackground
         */
         public static final int AppCompatTheme_editTextBackground = 64;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#editTextColor}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#editTextColor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5803,81 +5803,81 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name XamarinWebViewApp.Droid:editTextColor
+          @attr name xamarinwebviewapp.xamarinwebviewapp:editTextColor
         */
         public static final int AppCompatTheme_editTextColor = 63;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#editTextStyle}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#editTextStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:editTextStyle
+          @attr name xamarinwebviewapp.xamarinwebviewapp:editTextStyle
         */
         public static final int AppCompatTheme_editTextStyle = 106;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#homeAsUpIndicator}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#homeAsUpIndicator}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:homeAsUpIndicator
+          @attr name xamarinwebviewapp.xamarinwebviewapp:homeAsUpIndicator
         */
         public static final int AppCompatTheme_homeAsUpIndicator = 49;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#imageButtonStyle}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#imageButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:imageButtonStyle
+          @attr name xamarinwebviewapp.xamarinwebviewapp:imageButtonStyle
         */
         public static final int AppCompatTheme_imageButtonStyle = 65;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#listChoiceBackgroundIndicator}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#listChoiceBackgroundIndicator}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:listChoiceBackgroundIndicator
+          @attr name xamarinwebviewapp.xamarinwebviewapp:listChoiceBackgroundIndicator
         */
         public static final int AppCompatTheme_listChoiceBackgroundIndicator = 82;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#listDividerAlertDialog}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#listDividerAlertDialog}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:listDividerAlertDialog
+          @attr name xamarinwebviewapp.xamarinwebviewapp:listDividerAlertDialog
         */
         public static final int AppCompatTheme_listDividerAlertDialog = 45;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#listMenuViewStyle}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#listMenuViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:listMenuViewStyle
+          @attr name xamarinwebviewapp.xamarinwebviewapp:listMenuViewStyle
         */
         public static final int AppCompatTheme_listMenuViewStyle = 114;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#listPopupWindowStyle}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#listPopupWindowStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:listPopupWindowStyle
+          @attr name xamarinwebviewapp.xamarinwebviewapp:listPopupWindowStyle
         */
         public static final int AppCompatTheme_listPopupWindowStyle = 76;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#listPreferredItemHeight}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#listPreferredItemHeight}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5889,11 +5889,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:listPreferredItemHeight
+          @attr name xamarinwebviewapp.xamarinwebviewapp:listPreferredItemHeight
         */
         public static final int AppCompatTheme_listPreferredItemHeight = 70;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#listPreferredItemHeightLarge}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#listPreferredItemHeightLarge}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5905,11 +5905,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:listPreferredItemHeightLarge
+          @attr name xamarinwebviewapp.xamarinwebviewapp:listPreferredItemHeightLarge
         */
         public static final int AppCompatTheme_listPreferredItemHeightLarge = 72;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#listPreferredItemHeightSmall}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#listPreferredItemHeightSmall}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5921,11 +5921,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:listPreferredItemHeightSmall
+          @attr name xamarinwebviewapp.xamarinwebviewapp:listPreferredItemHeightSmall
         */
         public static final int AppCompatTheme_listPreferredItemHeightSmall = 71;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#listPreferredItemPaddingLeft}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#listPreferredItemPaddingLeft}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5937,11 +5937,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:listPreferredItemPaddingLeft
+          @attr name xamarinwebviewapp.xamarinwebviewapp:listPreferredItemPaddingLeft
         */
         public static final int AppCompatTheme_listPreferredItemPaddingLeft = 73;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#listPreferredItemPaddingRight}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#listPreferredItemPaddingRight}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5953,31 +5953,31 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:listPreferredItemPaddingRight
+          @attr name xamarinwebviewapp.xamarinwebviewapp:listPreferredItemPaddingRight
         */
         public static final int AppCompatTheme_listPreferredItemPaddingRight = 74;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#panelBackground}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#panelBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:panelBackground
+          @attr name xamarinwebviewapp.xamarinwebviewapp:panelBackground
         */
         public static final int AppCompatTheme_panelBackground = 79;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#panelMenuListTheme}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#panelMenuListTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:panelMenuListTheme
+          @attr name xamarinwebviewapp.xamarinwebviewapp:panelMenuListTheme
         */
         public static final int AppCompatTheme_panelMenuListTheme = 81;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#panelMenuListWidth}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#panelMenuListWidth}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5989,211 +5989,211 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:panelMenuListWidth
+          @attr name xamarinwebviewapp.xamarinwebviewapp:panelMenuListWidth
         */
         public static final int AppCompatTheme_panelMenuListWidth = 80;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#popupMenuStyle}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#popupMenuStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:popupMenuStyle
+          @attr name xamarinwebviewapp.xamarinwebviewapp:popupMenuStyle
         */
         public static final int AppCompatTheme_popupMenuStyle = 61;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#popupWindowStyle}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#popupWindowStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:popupWindowStyle
+          @attr name xamarinwebviewapp.xamarinwebviewapp:popupWindowStyle
         */
         public static final int AppCompatTheme_popupWindowStyle = 62;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#radioButtonStyle}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#radioButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:radioButtonStyle
+          @attr name xamarinwebviewapp.xamarinwebviewapp:radioButtonStyle
         */
         public static final int AppCompatTheme_radioButtonStyle = 107;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#ratingBarStyle}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#ratingBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:ratingBarStyle
+          @attr name xamarinwebviewapp.xamarinwebviewapp:ratingBarStyle
         */
         public static final int AppCompatTheme_ratingBarStyle = 108;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#ratingBarStyleIndicator}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#ratingBarStyleIndicator}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:ratingBarStyleIndicator
+          @attr name xamarinwebviewapp.xamarinwebviewapp:ratingBarStyleIndicator
         */
         public static final int AppCompatTheme_ratingBarStyleIndicator = 109;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#ratingBarStyleSmall}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#ratingBarStyleSmall}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:ratingBarStyleSmall
+          @attr name xamarinwebviewapp.xamarinwebviewapp:ratingBarStyleSmall
         */
         public static final int AppCompatTheme_ratingBarStyleSmall = 110;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#searchViewStyle}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#searchViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:searchViewStyle
+          @attr name xamarinwebviewapp.xamarinwebviewapp:searchViewStyle
         */
         public static final int AppCompatTheme_searchViewStyle = 69;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#seekBarStyle}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#seekBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:seekBarStyle
+          @attr name xamarinwebviewapp.xamarinwebviewapp:seekBarStyle
         */
         public static final int AppCompatTheme_seekBarStyle = 111;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#selectableItemBackground}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#selectableItemBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:selectableItemBackground
+          @attr name xamarinwebviewapp.xamarinwebviewapp:selectableItemBackground
         */
         public static final int AppCompatTheme_selectableItemBackground = 53;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#selectableItemBackgroundBorderless}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#selectableItemBackgroundBorderless}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:selectableItemBackgroundBorderless
+          @attr name xamarinwebviewapp.xamarinwebviewapp:selectableItemBackgroundBorderless
         */
         public static final int AppCompatTheme_selectableItemBackgroundBorderless = 54;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#spinnerDropDownItemStyle}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#spinnerDropDownItemStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:spinnerDropDownItemStyle
+          @attr name xamarinwebviewapp.xamarinwebviewapp:spinnerDropDownItemStyle
         */
         public static final int AppCompatTheme_spinnerDropDownItemStyle = 48;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#spinnerStyle}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#spinnerStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:spinnerStyle
+          @attr name xamarinwebviewapp.xamarinwebviewapp:spinnerStyle
         */
         public static final int AppCompatTheme_spinnerStyle = 112;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#switchStyle}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#switchStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:switchStyle
+          @attr name xamarinwebviewapp.xamarinwebviewapp:switchStyle
         */
         public static final int AppCompatTheme_switchStyle = 113;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#textAppearanceLargePopupMenu}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#textAppearanceLargePopupMenu}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:textAppearanceLargePopupMenu
+          @attr name xamarinwebviewapp.xamarinwebviewapp:textAppearanceLargePopupMenu
         */
         public static final int AppCompatTheme_textAppearanceLargePopupMenu = 40;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#textAppearanceListItem}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#textAppearanceListItem}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:textAppearanceListItem
+          @attr name xamarinwebviewapp.xamarinwebviewapp:textAppearanceListItem
         */
         public static final int AppCompatTheme_textAppearanceListItem = 77;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#textAppearanceListItemSmall}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#textAppearanceListItemSmall}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:textAppearanceListItemSmall
+          @attr name xamarinwebviewapp.xamarinwebviewapp:textAppearanceListItemSmall
         */
         public static final int AppCompatTheme_textAppearanceListItemSmall = 78;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#textAppearancePopupMenuHeader}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#textAppearancePopupMenuHeader}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:textAppearancePopupMenuHeader
+          @attr name xamarinwebviewapp.xamarinwebviewapp:textAppearancePopupMenuHeader
         */
         public static final int AppCompatTheme_textAppearancePopupMenuHeader = 42;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#textAppearanceSearchResultSubtitle}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#textAppearanceSearchResultSubtitle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:textAppearanceSearchResultSubtitle
+          @attr name xamarinwebviewapp.xamarinwebviewapp:textAppearanceSearchResultSubtitle
         */
         public static final int AppCompatTheme_textAppearanceSearchResultSubtitle = 67;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#textAppearanceSearchResultTitle}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#textAppearanceSearchResultTitle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:textAppearanceSearchResultTitle
+          @attr name xamarinwebviewapp.xamarinwebviewapp:textAppearanceSearchResultTitle
         */
         public static final int AppCompatTheme_textAppearanceSearchResultTitle = 66;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#textAppearanceSmallPopupMenu}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#textAppearanceSmallPopupMenu}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:textAppearanceSmallPopupMenu
+          @attr name xamarinwebviewapp.xamarinwebviewapp:textAppearanceSmallPopupMenu
         */
         public static final int AppCompatTheme_textAppearanceSmallPopupMenu = 41;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#textColorAlertDialogListItem}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#textColorAlertDialogListItem}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6201,11 +6201,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name XamarinWebViewApp.Droid:textColorAlertDialogListItem
+          @attr name xamarinwebviewapp.xamarinwebviewapp:textColorAlertDialogListItem
         */
         public static final int AppCompatTheme_textColorAlertDialogListItem = 97;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#textColorSearchUrl}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#textColorSearchUrl}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6213,31 +6213,31 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name XamarinWebViewApp.Droid:textColorSearchUrl
+          @attr name xamarinwebviewapp.xamarinwebviewapp:textColorSearchUrl
         */
         public static final int AppCompatTheme_textColorSearchUrl = 68;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#toolbarNavigationButtonStyle}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#toolbarNavigationButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:toolbarNavigationButtonStyle
+          @attr name xamarinwebviewapp.xamarinwebviewapp:toolbarNavigationButtonStyle
         */
         public static final int AppCompatTheme_toolbarNavigationButtonStyle = 60;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#toolbarStyle}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#toolbarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:toolbarStyle
+          @attr name xamarinwebviewapp.xamarinwebviewapp:toolbarStyle
         */
         public static final int AppCompatTheme_toolbarStyle = 59;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#windowActionBar}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#windowActionBar}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6247,11 +6247,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:windowActionBar
+          @attr name xamarinwebviewapp.xamarinwebviewapp:windowActionBar
         */
         public static final int AppCompatTheme_windowActionBar = 2;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#windowActionBarOverlay}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#windowActionBarOverlay}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6261,11 +6261,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:windowActionBarOverlay
+          @attr name xamarinwebviewapp.xamarinwebviewapp:windowActionBarOverlay
         */
         public static final int AppCompatTheme_windowActionBarOverlay = 4;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#windowActionModeOverlay}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#windowActionModeOverlay}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6275,11 +6275,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:windowActionModeOverlay
+          @attr name xamarinwebviewapp.xamarinwebviewapp:windowActionModeOverlay
         */
         public static final int AppCompatTheme_windowActionModeOverlay = 5;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#windowFixedHeightMajor}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#windowFixedHeightMajor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6294,11 +6294,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:windowFixedHeightMajor
+          @attr name xamarinwebviewapp.xamarinwebviewapp:windowFixedHeightMajor
         */
         public static final int AppCompatTheme_windowFixedHeightMajor = 9;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#windowFixedHeightMinor}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#windowFixedHeightMinor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6313,11 +6313,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:windowFixedHeightMinor
+          @attr name xamarinwebviewapp.xamarinwebviewapp:windowFixedHeightMinor
         */
         public static final int AppCompatTheme_windowFixedHeightMinor = 7;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#windowFixedWidthMajor}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#windowFixedWidthMajor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6332,11 +6332,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:windowFixedWidthMajor
+          @attr name xamarinwebviewapp.xamarinwebviewapp:windowFixedWidthMajor
         */
         public static final int AppCompatTheme_windowFixedWidthMajor = 6;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#windowFixedWidthMinor}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#windowFixedWidthMinor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6351,11 +6351,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:windowFixedWidthMinor
+          @attr name xamarinwebviewapp.xamarinwebviewapp:windowFixedWidthMinor
         */
         public static final int AppCompatTheme_windowFixedWidthMinor = 8;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#windowMinWidthMajor}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#windowMinWidthMajor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6370,11 +6370,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:windowMinWidthMajor
+          @attr name xamarinwebviewapp.xamarinwebviewapp:windowMinWidthMajor
         */
         public static final int AppCompatTheme_windowMinWidthMajor = 10;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#windowMinWidthMinor}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#windowMinWidthMinor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6389,11 +6389,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:windowMinWidthMinor
+          @attr name xamarinwebviewapp.xamarinwebviewapp:windowMinWidthMinor
         */
         public static final int AppCompatTheme_windowMinWidthMinor = 11;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#windowNoTitle}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#windowNoTitle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6403,7 +6403,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:windowNoTitle
+          @attr name xamarinwebviewapp.xamarinwebviewapp:windowNoTitle
         */
         public static final int AppCompatTheme_windowNoTitle = 3;
         /** Attributes that can be used with a BottomNavigationView.
@@ -6412,11 +6412,11 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #BottomNavigationView_elevation XamarinWebViewApp.Droid:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomNavigationView_itemBackground XamarinWebViewApp.Droid:itemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomNavigationView_itemIconTint XamarinWebViewApp.Droid:itemIconTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomNavigationView_itemTextColor XamarinWebViewApp.Droid:itemTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomNavigationView_menu XamarinWebViewApp.Droid:menu}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomNavigationView_elevation xamarinwebviewapp.xamarinwebviewapp:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomNavigationView_itemBackground xamarinwebviewapp.xamarinwebviewapp:itemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomNavigationView_itemIconTint xamarinwebviewapp.xamarinwebviewapp:itemIconTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomNavigationView_itemTextColor xamarinwebviewapp.xamarinwebviewapp:itemTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomNavigationView_menu xamarinwebviewapp.xamarinwebviewapp:menu}</code></td><td></td></tr>
            </table>
            @see #BottomNavigationView_elevation
            @see #BottomNavigationView_itemBackground
@@ -6429,7 +6429,7 @@ containing a value of this type.
             0x7f01012e
         };
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#elevation}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#elevation}
           attribute's value can be found in the {@link #BottomNavigationView} array.
 
 
@@ -6441,21 +6441,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:elevation
+          @attr name xamarinwebviewapp.xamarinwebviewapp:elevation
         */
         public static final int BottomNavigationView_elevation = 0;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#itemBackground}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#itemBackground}
           attribute's value can be found in the {@link #BottomNavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:itemBackground
+          @attr name xamarinwebviewapp.xamarinwebviewapp:itemBackground
         */
         public static final int BottomNavigationView_itemBackground = 4;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#itemIconTint}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#itemIconTint}
           attribute's value can be found in the {@link #BottomNavigationView} array.
 
 
@@ -6466,11 +6466,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:itemIconTint
+          @attr name xamarinwebviewapp.xamarinwebviewapp:itemIconTint
         */
         public static final int BottomNavigationView_itemIconTint = 2;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#itemTextColor}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#itemTextColor}
           attribute's value can be found in the {@link #BottomNavigationView} array.
 
 
@@ -6481,17 +6481,17 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:itemTextColor
+          @attr name xamarinwebviewapp.xamarinwebviewapp:itemTextColor
         */
         public static final int BottomNavigationView_itemTextColor = 3;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#menu}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#menu}
           attribute's value can be found in the {@link #BottomNavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:menu
+          @attr name xamarinwebviewapp.xamarinwebviewapp:menu
         */
         public static final int BottomNavigationView_menu = 1;
         /** Attributes that can be used with a BottomSheetBehavior_Layout.
@@ -6500,9 +6500,9 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_hideable XamarinWebViewApp.Droid:behavior_hideable}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_peekHeight XamarinWebViewApp.Droid:behavior_peekHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_skipCollapsed XamarinWebViewApp.Droid:behavior_skipCollapsed}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_hideable xamarinwebviewapp.xamarinwebviewapp:behavior_hideable}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_peekHeight xamarinwebviewapp.xamarinwebviewapp:behavior_peekHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_skipCollapsed xamarinwebviewapp.xamarinwebviewapp:behavior_skipCollapsed}</code></td><td></td></tr>
            </table>
            @see #BottomSheetBehavior_Layout_behavior_hideable
            @see #BottomSheetBehavior_Layout_behavior_peekHeight
@@ -6512,7 +6512,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f010105, 0x7f010106, 0x7f010107
         };
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#behavior_hideable}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#behavior_hideable}
           attribute's value can be found in the {@link #BottomSheetBehavior_Layout} array.
 
 
@@ -6522,11 +6522,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:behavior_hideable
+          @attr name xamarinwebviewapp.xamarinwebviewapp:behavior_hideable
         */
         public static final int BottomSheetBehavior_Layout_behavior_hideable = 1;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#behavior_peekHeight}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#behavior_peekHeight}
           attribute's value can be found in the {@link #BottomSheetBehavior_Layout} array.
 
 
@@ -6546,11 +6546,11 @@ containing a value of this type.
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>auto</code></td><td>-1</td><td></td></tr>
 </table>
-          @attr name XamarinWebViewApp.Droid:behavior_peekHeight
+          @attr name xamarinwebviewapp.xamarinwebviewapp:behavior_peekHeight
         */
         public static final int BottomSheetBehavior_Layout_behavior_peekHeight = 0;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#behavior_skipCollapsed}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#behavior_skipCollapsed}
           attribute's value can be found in the {@link #BottomSheetBehavior_Layout} array.
 
 
@@ -6560,7 +6560,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:behavior_skipCollapsed
+          @attr name xamarinwebviewapp.xamarinwebviewapp:behavior_skipCollapsed
         */
         public static final int BottomSheetBehavior_Layout_behavior_skipCollapsed = 2;
         /** Attributes that can be used with a ButtonBarLayout.
@@ -6569,7 +6569,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ButtonBarLayout_allowStacking XamarinWebViewApp.Droid:allowStacking}</code></td><td></td></tr>
+           <tr><td><code>{@link #ButtonBarLayout_allowStacking xamarinwebviewapp.xamarinwebviewapp:allowStacking}</code></td><td></td></tr>
            </table>
            @see #ButtonBarLayout_allowStacking
          */
@@ -6577,7 +6577,7 @@ containing a value of this type.
             0x7f0100b9
         };
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#allowStacking}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#allowStacking}
           attribute's value can be found in the {@link #ButtonBarLayout} array.
 
 
@@ -6587,7 +6587,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:allowStacking
+          @attr name xamarinwebviewapp.xamarinwebviewapp:allowStacking
         */
         public static final int ButtonBarLayout_allowStacking = 0;
         /** Attributes that can be used with a CardView.
@@ -6598,17 +6598,17 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #CardView_android_minHeight android:minHeight}</code></td><td></td></tr>
            <tr><td><code>{@link #CardView_android_minWidth android:minWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_cardBackgroundColor XamarinWebViewApp.Droid:cardBackgroundColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_cardCornerRadius XamarinWebViewApp.Droid:cardCornerRadius}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_cardElevation XamarinWebViewApp.Droid:cardElevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_cardMaxElevation XamarinWebViewApp.Droid:cardMaxElevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_cardPreventCornerOverlap XamarinWebViewApp.Droid:cardPreventCornerOverlap}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_cardUseCompatPadding XamarinWebViewApp.Droid:cardUseCompatPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_contentPadding XamarinWebViewApp.Droid:contentPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_contentPaddingBottom XamarinWebViewApp.Droid:contentPaddingBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_contentPaddingLeft XamarinWebViewApp.Droid:contentPaddingLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_contentPaddingRight XamarinWebViewApp.Droid:contentPaddingRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_contentPaddingTop XamarinWebViewApp.Droid:contentPaddingTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_cardBackgroundColor xamarinwebviewapp.xamarinwebviewapp:cardBackgroundColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_cardCornerRadius xamarinwebviewapp.xamarinwebviewapp:cardCornerRadius}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_cardElevation xamarinwebviewapp.xamarinwebviewapp:cardElevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_cardMaxElevation xamarinwebviewapp.xamarinwebviewapp:cardMaxElevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_cardPreventCornerOverlap xamarinwebviewapp.xamarinwebviewapp:cardPreventCornerOverlap}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_cardUseCompatPadding xamarinwebviewapp.xamarinwebviewapp:cardUseCompatPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_contentPadding xamarinwebviewapp.xamarinwebviewapp:contentPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_contentPaddingBottom xamarinwebviewapp.xamarinwebviewapp:contentPaddingBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_contentPaddingLeft xamarinwebviewapp.xamarinwebviewapp:contentPaddingLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_contentPaddingRight xamarinwebviewapp.xamarinwebviewapp:contentPaddingRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_contentPaddingTop xamarinwebviewapp.xamarinwebviewapp:contentPaddingTop}</code></td><td></td></tr>
            </table>
            @see #CardView_android_minHeight
            @see #CardView_android_minWidth
@@ -6643,7 +6643,7 @@ containing a value of this type.
         */
         public static final int CardView_android_minWidth = 0;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#cardBackgroundColor}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#cardBackgroundColor}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -6654,11 +6654,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:cardBackgroundColor
+          @attr name xamarinwebviewapp.xamarinwebviewapp:cardBackgroundColor
         */
         public static final int CardView_cardBackgroundColor = 2;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#cardCornerRadius}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#cardCornerRadius}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -6670,11 +6670,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:cardCornerRadius
+          @attr name xamarinwebviewapp.xamarinwebviewapp:cardCornerRadius
         */
         public static final int CardView_cardCornerRadius = 3;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#cardElevation}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#cardElevation}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -6686,11 +6686,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:cardElevation
+          @attr name xamarinwebviewapp.xamarinwebviewapp:cardElevation
         */
         public static final int CardView_cardElevation = 4;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#cardMaxElevation}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#cardMaxElevation}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -6702,11 +6702,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:cardMaxElevation
+          @attr name xamarinwebviewapp.xamarinwebviewapp:cardMaxElevation
         */
         public static final int CardView_cardMaxElevation = 5;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#cardPreventCornerOverlap}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#cardPreventCornerOverlap}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -6716,11 +6716,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:cardPreventCornerOverlap
+          @attr name xamarinwebviewapp.xamarinwebviewapp:cardPreventCornerOverlap
         */
         public static final int CardView_cardPreventCornerOverlap = 7;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#cardUseCompatPadding}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#cardUseCompatPadding}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -6730,11 +6730,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:cardUseCompatPadding
+          @attr name xamarinwebviewapp.xamarinwebviewapp:cardUseCompatPadding
         */
         public static final int CardView_cardUseCompatPadding = 6;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#contentPadding}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#contentPadding}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -6746,11 +6746,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:contentPadding
+          @attr name xamarinwebviewapp.xamarinwebviewapp:contentPadding
         */
         public static final int CardView_contentPadding = 8;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#contentPaddingBottom}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#contentPaddingBottom}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -6762,11 +6762,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:contentPaddingBottom
+          @attr name xamarinwebviewapp.xamarinwebviewapp:contentPaddingBottom
         */
         public static final int CardView_contentPaddingBottom = 12;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#contentPaddingLeft}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#contentPaddingLeft}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -6778,11 +6778,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:contentPaddingLeft
+          @attr name xamarinwebviewapp.xamarinwebviewapp:contentPaddingLeft
         */
         public static final int CardView_contentPaddingLeft = 9;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#contentPaddingRight}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#contentPaddingRight}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -6794,11 +6794,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:contentPaddingRight
+          @attr name xamarinwebviewapp.xamarinwebviewapp:contentPaddingRight
         */
         public static final int CardView_contentPaddingRight = 10;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#contentPaddingTop}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#contentPaddingTop}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -6810,7 +6810,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:contentPaddingTop
+          @attr name xamarinwebviewapp.xamarinwebviewapp:contentPaddingTop
         */
         public static final int CardView_contentPaddingTop = 11;
         /** Attributes that can be used with a CollapsingToolbarLayout.
@@ -6819,22 +6819,22 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleGravity XamarinWebViewApp.Droid:collapsedTitleGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleTextAppearance XamarinWebViewApp.Droid:collapsedTitleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_contentScrim XamarinWebViewApp.Droid:contentScrim}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleGravity XamarinWebViewApp.Droid:expandedTitleGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMargin XamarinWebViewApp.Droid:expandedTitleMargin}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginBottom XamarinWebViewApp.Droid:expandedTitleMarginBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginEnd XamarinWebViewApp.Droid:expandedTitleMarginEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginStart XamarinWebViewApp.Droid:expandedTitleMarginStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginTop XamarinWebViewApp.Droid:expandedTitleMarginTop}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleTextAppearance XamarinWebViewApp.Droid:expandedTitleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_scrimAnimationDuration XamarinWebViewApp.Droid:scrimAnimationDuration}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_scrimVisibleHeightTrigger XamarinWebViewApp.Droid:scrimVisibleHeightTrigger}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_statusBarScrim XamarinWebViewApp.Droid:statusBarScrim}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_title XamarinWebViewApp.Droid:title}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_titleEnabled XamarinWebViewApp.Droid:titleEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_toolbarId XamarinWebViewApp.Droid:toolbarId}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleGravity xamarinwebviewapp.xamarinwebviewapp:collapsedTitleGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleTextAppearance xamarinwebviewapp.xamarinwebviewapp:collapsedTitleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_contentScrim xamarinwebviewapp.xamarinwebviewapp:contentScrim}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleGravity xamarinwebviewapp.xamarinwebviewapp:expandedTitleGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMargin xamarinwebviewapp.xamarinwebviewapp:expandedTitleMargin}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginBottom xamarinwebviewapp.xamarinwebviewapp:expandedTitleMarginBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginEnd xamarinwebviewapp.xamarinwebviewapp:expandedTitleMarginEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginStart xamarinwebviewapp.xamarinwebviewapp:expandedTitleMarginStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginTop xamarinwebviewapp.xamarinwebviewapp:expandedTitleMarginTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleTextAppearance xamarinwebviewapp.xamarinwebviewapp:expandedTitleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_scrimAnimationDuration xamarinwebviewapp.xamarinwebviewapp:scrimAnimationDuration}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_scrimVisibleHeightTrigger xamarinwebviewapp.xamarinwebviewapp:scrimVisibleHeightTrigger}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_statusBarScrim xamarinwebviewapp.xamarinwebviewapp:statusBarScrim}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_title xamarinwebviewapp.xamarinwebviewapp:title}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_titleEnabled xamarinwebviewapp.xamarinwebviewapp:titleEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_toolbarId xamarinwebviewapp.xamarinwebviewapp:toolbarId}</code></td><td></td></tr>
            </table>
            @see #CollapsingToolbarLayout_collapsedTitleGravity
            @see #CollapsingToolbarLayout_collapsedTitleTextAppearance
@@ -6860,7 +6860,7 @@ containing a value of this type.
             0x7f010113, 0x7f010114, 0x7f010115, 0x7f010116
         };
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#collapsedTitleGravity}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#collapsedTitleGravity}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -6881,21 +6881,21 @@ containing a value of this type.
 <tr><td><code>start</code></td><td>0x00800003</td><td></td></tr>
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 </table>
-          @attr name XamarinWebViewApp.Droid:collapsedTitleGravity
+          @attr name xamarinwebviewapp.xamarinwebviewapp:collapsedTitleGravity
         */
         public static final int CollapsingToolbarLayout_collapsedTitleGravity = 13;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#collapsedTitleTextAppearance}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#collapsedTitleTextAppearance}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:collapsedTitleTextAppearance
+          @attr name xamarinwebviewapp.xamarinwebviewapp:collapsedTitleTextAppearance
         */
         public static final int CollapsingToolbarLayout_collapsedTitleTextAppearance = 7;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#contentScrim}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#contentScrim}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -6906,11 +6906,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:contentScrim
+          @attr name xamarinwebviewapp.xamarinwebviewapp:contentScrim
         */
         public static final int CollapsingToolbarLayout_contentScrim = 8;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#expandedTitleGravity}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#expandedTitleGravity}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -6931,11 +6931,11 @@ containing a value of this type.
 <tr><td><code>start</code></td><td>0x00800003</td><td></td></tr>
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 </table>
-          @attr name XamarinWebViewApp.Droid:expandedTitleGravity
+          @attr name xamarinwebviewapp.xamarinwebviewapp:expandedTitleGravity
         */
         public static final int CollapsingToolbarLayout_expandedTitleGravity = 14;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#expandedTitleMargin}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#expandedTitleMargin}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -6947,11 +6947,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:expandedTitleMargin
+          @attr name xamarinwebviewapp.xamarinwebviewapp:expandedTitleMargin
         */
         public static final int CollapsingToolbarLayout_expandedTitleMargin = 1;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#expandedTitleMarginBottom}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#expandedTitleMarginBottom}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -6963,11 +6963,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:expandedTitleMarginBottom
+          @attr name xamarinwebviewapp.xamarinwebviewapp:expandedTitleMarginBottom
         */
         public static final int CollapsingToolbarLayout_expandedTitleMarginBottom = 5;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#expandedTitleMarginEnd}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#expandedTitleMarginEnd}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -6979,11 +6979,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:expandedTitleMarginEnd
+          @attr name xamarinwebviewapp.xamarinwebviewapp:expandedTitleMarginEnd
         */
         public static final int CollapsingToolbarLayout_expandedTitleMarginEnd = 4;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#expandedTitleMarginStart}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#expandedTitleMarginStart}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -6995,11 +6995,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:expandedTitleMarginStart
+          @attr name xamarinwebviewapp.xamarinwebviewapp:expandedTitleMarginStart
         */
         public static final int CollapsingToolbarLayout_expandedTitleMarginStart = 2;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#expandedTitleMarginTop}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#expandedTitleMarginTop}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7011,21 +7011,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:expandedTitleMarginTop
+          @attr name xamarinwebviewapp.xamarinwebviewapp:expandedTitleMarginTop
         */
         public static final int CollapsingToolbarLayout_expandedTitleMarginTop = 3;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#expandedTitleTextAppearance}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#expandedTitleTextAppearance}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:expandedTitleTextAppearance
+          @attr name xamarinwebviewapp.xamarinwebviewapp:expandedTitleTextAppearance
         */
         public static final int CollapsingToolbarLayout_expandedTitleTextAppearance = 6;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#scrimAnimationDuration}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#scrimAnimationDuration}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7035,11 +7035,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:scrimAnimationDuration
+          @attr name xamarinwebviewapp.xamarinwebviewapp:scrimAnimationDuration
         */
         public static final int CollapsingToolbarLayout_scrimAnimationDuration = 12;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#scrimVisibleHeightTrigger}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#scrimVisibleHeightTrigger}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7051,11 +7051,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:scrimVisibleHeightTrigger
+          @attr name xamarinwebviewapp.xamarinwebviewapp:scrimVisibleHeightTrigger
         */
         public static final int CollapsingToolbarLayout_scrimVisibleHeightTrigger = 11;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#statusBarScrim}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#statusBarScrim}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7066,11 +7066,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:statusBarScrim
+          @attr name xamarinwebviewapp.xamarinwebviewapp:statusBarScrim
         */
         public static final int CollapsingToolbarLayout_statusBarScrim = 9;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#title}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#title}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7080,11 +7080,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:title
+          @attr name xamarinwebviewapp.xamarinwebviewapp:title
         */
         public static final int CollapsingToolbarLayout_title = 0;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#titleEnabled}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#titleEnabled}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7094,17 +7094,17 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:titleEnabled
+          @attr name xamarinwebviewapp.xamarinwebviewapp:titleEnabled
         */
         public static final int CollapsingToolbarLayout_titleEnabled = 15;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#toolbarId}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#toolbarId}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:toolbarId
+          @attr name xamarinwebviewapp.xamarinwebviewapp:toolbarId
         */
         public static final int CollapsingToolbarLayout_toolbarId = 10;
         /** Attributes that can be used with a CollapsingToolbarLayout_Layout.
@@ -7113,8 +7113,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseMode XamarinWebViewApp.Droid:layout_collapseMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier XamarinWebViewApp.Droid:layout_collapseParallaxMultiplier}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseMode xamarinwebviewapp.xamarinwebviewapp:layout_collapseMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier xamarinwebviewapp.xamarinwebviewapp:layout_collapseParallaxMultiplier}</code></td><td></td></tr>
            </table>
            @see #CollapsingToolbarLayout_Layout_layout_collapseMode
            @see #CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier
@@ -7123,7 +7123,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f010117, 0x7f010118
         };
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#layout_collapseMode}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#layout_collapseMode}
           attribute's value can be found in the {@link #CollapsingToolbarLayout_Layout} array.
 
 
@@ -7137,11 +7137,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>pin</code></td><td>1</td><td></td></tr>
 <tr><td><code>parallax</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name XamarinWebViewApp.Droid:layout_collapseMode
+          @attr name xamarinwebviewapp.xamarinwebviewapp:layout_collapseMode
         */
         public static final int CollapsingToolbarLayout_Layout_layout_collapseMode = 0;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#layout_collapseParallaxMultiplier}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#layout_collapseParallaxMultiplier}
           attribute's value can be found in the {@link #CollapsingToolbarLayout_Layout} array.
 
 
@@ -7151,7 +7151,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:layout_collapseParallaxMultiplier
+          @attr name xamarinwebviewapp.xamarinwebviewapp:layout_collapseParallaxMultiplier
         */
         public static final int CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier = 1;
         /** Attributes that can be used with a ColorStateListItem.
@@ -7160,7 +7160,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ColorStateListItem_alpha XamarinWebViewApp.Droid:alpha}</code></td><td></td></tr>
+           <tr><td><code>{@link #ColorStateListItem_alpha xamarinwebviewapp.xamarinwebviewapp:alpha}</code></td><td></td></tr>
            <tr><td><code>{@link #ColorStateListItem_android_alpha android:alpha}</code></td><td></td></tr>
            <tr><td><code>{@link #ColorStateListItem_android_color android:color}</code></td><td></td></tr>
            </table>
@@ -7172,7 +7172,7 @@ containing a value of this type.
             0x010101a5, 0x0101031f, 0x7f0100ba
         };
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#alpha}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#alpha}
           attribute's value can be found in the {@link #ColorStateListItem} array.
 
 
@@ -7182,7 +7182,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:alpha
+          @attr name xamarinwebviewapp.xamarinwebviewapp:alpha
         */
         public static final int ColorStateListItem_alpha = 2;
         /**
@@ -7204,8 +7204,8 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #CompoundButton_android_button android:button}</code></td><td></td></tr>
-           <tr><td><code>{@link #CompoundButton_buttonTint XamarinWebViewApp.Droid:buttonTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #CompoundButton_buttonTintMode XamarinWebViewApp.Droid:buttonTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #CompoundButton_buttonTint xamarinwebviewapp.xamarinwebviewapp:buttonTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #CompoundButton_buttonTintMode xamarinwebviewapp.xamarinwebviewapp:buttonTintMode}</code></td><td></td></tr>
            </table>
            @see #CompoundButton_android_button
            @see #CompoundButton_buttonTint
@@ -7221,7 +7221,7 @@ containing a value of this type.
         */
         public static final int CompoundButton_android_button = 0;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#buttonTint}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#buttonTint}
           attribute's value can be found in the {@link #CompoundButton} array.
 
 
@@ -7232,11 +7232,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:buttonTint
+          @attr name xamarinwebviewapp.xamarinwebviewapp:buttonTint
         */
         public static final int CompoundButton_buttonTint = 1;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#buttonTintMode}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#buttonTintMode}
           attribute's value can be found in the {@link #CompoundButton} array.
 
 
@@ -7252,7 +7252,7 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name XamarinWebViewApp.Droid:buttonTintMode
+          @attr name xamarinwebviewapp.xamarinwebviewapp:buttonTintMode
         */
         public static final int CompoundButton_buttonTintMode = 2;
         /** Attributes that can be used with a CoordinatorLayout.
@@ -7261,8 +7261,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #CoordinatorLayout_keylines XamarinWebViewApp.Droid:keylines}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_statusBarBackground XamarinWebViewApp.Droid:statusBarBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_keylines xamarinwebviewapp.xamarinwebviewapp:keylines}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_statusBarBackground xamarinwebviewapp.xamarinwebviewapp:statusBarBackground}</code></td><td></td></tr>
            </table>
            @see #CoordinatorLayout_keylines
            @see #CoordinatorLayout_statusBarBackground
@@ -7271,23 +7271,23 @@ containing a value of this type.
             0x7f010119, 0x7f01011a
         };
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#keylines}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#keylines}
           attribute's value can be found in the {@link #CoordinatorLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:keylines
+          @attr name xamarinwebviewapp.xamarinwebviewapp:keylines
         */
         public static final int CoordinatorLayout_keylines = 0;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#statusBarBackground}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#statusBarBackground}
           attribute's value can be found in the {@link #CoordinatorLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:statusBarBackground
+          @attr name xamarinwebviewapp.xamarinwebviewapp:statusBarBackground
         */
         public static final int CoordinatorLayout_statusBarBackground = 1;
         /** Attributes that can be used with a CoordinatorLayout_Layout.
@@ -7297,12 +7297,12 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #CoordinatorLayout_Layout_android_layout_gravity android:layout_gravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchor XamarinWebViewApp.Droid:layout_anchor}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchorGravity XamarinWebViewApp.Droid:layout_anchorGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_behavior XamarinWebViewApp.Droid:layout_behavior}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_dodgeInsetEdges XamarinWebViewApp.Droid:layout_dodgeInsetEdges}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_insetEdge XamarinWebViewApp.Droid:layout_insetEdge}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_keyline XamarinWebViewApp.Droid:layout_keyline}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchor xamarinwebviewapp.xamarinwebviewapp:layout_anchor}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchorGravity xamarinwebviewapp.xamarinwebviewapp:layout_anchorGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_behavior xamarinwebviewapp.xamarinwebviewapp:layout_behavior}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_dodgeInsetEdges xamarinwebviewapp.xamarinwebviewapp:layout_dodgeInsetEdges}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_insetEdge xamarinwebviewapp.xamarinwebviewapp:layout_insetEdge}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_keyline xamarinwebviewapp.xamarinwebviewapp:layout_keyline}</code></td><td></td></tr>
            </table>
            @see #CoordinatorLayout_Layout_android_layout_gravity
            @see #CoordinatorLayout_Layout_layout_anchor
@@ -7323,17 +7323,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int CoordinatorLayout_Layout_android_layout_gravity = 0;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#layout_anchor}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#layout_anchor}
           attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:layout_anchor
+          @attr name xamarinwebviewapp.xamarinwebviewapp:layout_anchor
         */
         public static final int CoordinatorLayout_Layout_layout_anchor = 2;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#layout_anchorGravity}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#layout_anchorGravity}
           attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 
 
@@ -7358,11 +7358,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>start</code></td><td>0x00800003</td><td></td></tr>
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 </table>
-          @attr name XamarinWebViewApp.Droid:layout_anchorGravity
+          @attr name xamarinwebviewapp.xamarinwebviewapp:layout_anchorGravity
         */
         public static final int CoordinatorLayout_Layout_layout_anchorGravity = 4;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#layout_behavior}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#layout_behavior}
           attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 
 
@@ -7372,11 +7372,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:layout_behavior
+          @attr name xamarinwebviewapp.xamarinwebviewapp:layout_behavior
         */
         public static final int CoordinatorLayout_Layout_layout_behavior = 1;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#layout_dodgeInsetEdges}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#layout_dodgeInsetEdges}
           attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 
 
@@ -7395,11 +7395,11 @@ containing a value of this type.
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 <tr><td><code>all</code></td><td>0x77</td><td></td></tr>
 </table>
-          @attr name XamarinWebViewApp.Droid:layout_dodgeInsetEdges
+          @attr name xamarinwebviewapp.xamarinwebviewapp:layout_dodgeInsetEdges
         */
         public static final int CoordinatorLayout_Layout_layout_dodgeInsetEdges = 6;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#layout_insetEdge}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#layout_insetEdge}
           attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 
 
@@ -7417,11 +7417,11 @@ containing a value of this type.
 <tr><td><code>start</code></td><td>0x00800003</td><td></td></tr>
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 </table>
-          @attr name XamarinWebViewApp.Droid:layout_insetEdge
+          @attr name xamarinwebviewapp.xamarinwebviewapp:layout_insetEdge
         */
         public static final int CoordinatorLayout_Layout_layout_insetEdge = 5;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#layout_keyline}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#layout_keyline}
           attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 
 
@@ -7431,7 +7431,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:layout_keyline
+          @attr name xamarinwebviewapp.xamarinwebviewapp:layout_keyline
         */
         public static final int CoordinatorLayout_Layout_layout_keyline = 3;
         /** Attributes that can be used with a DesignTheme.
@@ -7440,9 +7440,9 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #DesignTheme_bottomSheetDialogTheme XamarinWebViewApp.Droid:bottomSheetDialogTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #DesignTheme_bottomSheetStyle XamarinWebViewApp.Droid:bottomSheetStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #DesignTheme_textColorError XamarinWebViewApp.Droid:textColorError}</code></td><td></td></tr>
+           <tr><td><code>{@link #DesignTheme_bottomSheetDialogTheme xamarinwebviewapp.xamarinwebviewapp:bottomSheetDialogTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #DesignTheme_bottomSheetStyle xamarinwebviewapp.xamarinwebviewapp:bottomSheetStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #DesignTheme_textColorError xamarinwebviewapp.xamarinwebviewapp:textColorError}</code></td><td></td></tr>
            </table>
            @see #DesignTheme_bottomSheetDialogTheme
            @see #DesignTheme_bottomSheetStyle
@@ -7452,27 +7452,27 @@ containing a value of this type.
             0x7f010121, 0x7f010122, 0x7f010123
         };
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#bottomSheetDialogTheme}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#bottomSheetDialogTheme}
           attribute's value can be found in the {@link #DesignTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:bottomSheetDialogTheme
+          @attr name xamarinwebviewapp.xamarinwebviewapp:bottomSheetDialogTheme
         */
         public static final int DesignTheme_bottomSheetDialogTheme = 0;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#bottomSheetStyle}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#bottomSheetStyle}
           attribute's value can be found in the {@link #DesignTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:bottomSheetStyle
+          @attr name xamarinwebviewapp.xamarinwebviewapp:bottomSheetStyle
         */
         public static final int DesignTheme_bottomSheetStyle = 1;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#textColorError}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#textColorError}
           attribute's value can be found in the {@link #DesignTheme} array.
 
 
@@ -7483,7 +7483,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:textColorError
+          @attr name xamarinwebviewapp.xamarinwebviewapp:textColorError
         */
         public static final int DesignTheme_textColorError = 2;
         /** Attributes that can be used with a DrawerArrowToggle.
@@ -7492,14 +7492,14 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength XamarinWebViewApp.Droid:arrowHeadLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength XamarinWebViewApp.Droid:arrowShaftLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_barLength XamarinWebViewApp.Droid:barLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_color XamarinWebViewApp.Droid:color}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_drawableSize XamarinWebViewApp.Droid:drawableSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars XamarinWebViewApp.Droid:gapBetweenBars}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_spinBars XamarinWebViewApp.Droid:spinBars}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_thickness XamarinWebViewApp.Droid:thickness}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength xamarinwebviewapp.xamarinwebviewapp:arrowHeadLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength xamarinwebviewapp.xamarinwebviewapp:arrowShaftLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_barLength xamarinwebviewapp.xamarinwebviewapp:barLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_color xamarinwebviewapp.xamarinwebviewapp:color}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_drawableSize xamarinwebviewapp.xamarinwebviewapp:drawableSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars xamarinwebviewapp.xamarinwebviewapp:gapBetweenBars}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_spinBars xamarinwebviewapp.xamarinwebviewapp:spinBars}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_thickness xamarinwebviewapp.xamarinwebviewapp:thickness}</code></td><td></td></tr>
            </table>
            @see #DrawerArrowToggle_arrowHeadLength
            @see #DrawerArrowToggle_arrowShaftLength
@@ -7515,7 +7515,7 @@ containing a value of this type.
             0x7f0100c1, 0x7f0100c2, 0x7f0100c3, 0x7f0100c4
         };
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#arrowHeadLength}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#arrowHeadLength}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -7527,11 +7527,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:arrowHeadLength
+          @attr name xamarinwebviewapp.xamarinwebviewapp:arrowHeadLength
         */
         public static final int DrawerArrowToggle_arrowHeadLength = 4;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#arrowShaftLength}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#arrowShaftLength}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -7543,11 +7543,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:arrowShaftLength
+          @attr name xamarinwebviewapp.xamarinwebviewapp:arrowShaftLength
         */
         public static final int DrawerArrowToggle_arrowShaftLength = 5;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#barLength}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#barLength}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -7559,11 +7559,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:barLength
+          @attr name xamarinwebviewapp.xamarinwebviewapp:barLength
         */
         public static final int DrawerArrowToggle_barLength = 6;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#color}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#color}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -7574,11 +7574,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:color
+          @attr name xamarinwebviewapp.xamarinwebviewapp:color
         */
         public static final int DrawerArrowToggle_color = 0;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#drawableSize}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#drawableSize}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -7590,11 +7590,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:drawableSize
+          @attr name xamarinwebviewapp.xamarinwebviewapp:drawableSize
         */
         public static final int DrawerArrowToggle_drawableSize = 2;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#gapBetweenBars}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#gapBetweenBars}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -7606,11 +7606,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:gapBetweenBars
+          @attr name xamarinwebviewapp.xamarinwebviewapp:gapBetweenBars
         */
         public static final int DrawerArrowToggle_gapBetweenBars = 3;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#spinBars}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#spinBars}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -7620,11 +7620,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:spinBars
+          @attr name xamarinwebviewapp.xamarinwebviewapp:spinBars
         */
         public static final int DrawerArrowToggle_spinBars = 1;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#thickness}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#thickness}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -7636,7 +7636,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:thickness
+          @attr name xamarinwebviewapp.xamarinwebviewapp:thickness
         */
         public static final int DrawerArrowToggle_thickness = 7;
         /** Attributes that can be used with a FloatingActionButton.
@@ -7645,14 +7645,14 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #FloatingActionButton_backgroundTint XamarinWebViewApp.Droid:backgroundTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_backgroundTintMode XamarinWebViewApp.Droid:backgroundTintMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_borderWidth XamarinWebViewApp.Droid:borderWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_elevation XamarinWebViewApp.Droid:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_fabSize XamarinWebViewApp.Droid:fabSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_pressedTranslationZ XamarinWebViewApp.Droid:pressedTranslationZ}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_rippleColor XamarinWebViewApp.Droid:rippleColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_useCompatPadding XamarinWebViewApp.Droid:useCompatPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_backgroundTint xamarinwebviewapp.xamarinwebviewapp:backgroundTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_backgroundTintMode xamarinwebviewapp.xamarinwebviewapp:backgroundTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_borderWidth xamarinwebviewapp.xamarinwebviewapp:borderWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_elevation xamarinwebviewapp.xamarinwebviewapp:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_fabSize xamarinwebviewapp.xamarinwebviewapp:fabSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_pressedTranslationZ xamarinwebviewapp.xamarinwebviewapp:pressedTranslationZ}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_rippleColor xamarinwebviewapp.xamarinwebviewapp:rippleColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_useCompatPadding xamarinwebviewapp.xamarinwebviewapp:useCompatPadding}</code></td><td></td></tr>
            </table>
            @see #FloatingActionButton_backgroundTint
            @see #FloatingActionButton_backgroundTintMode
@@ -7668,7 +7668,7 @@ containing a value of this type.
             0x7f010125, 0x7f010126, 0x7f010127, 0x7f010128
         };
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#backgroundTint}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#backgroundTint}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -7679,11 +7679,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:backgroundTint
+          @attr name xamarinwebviewapp.xamarinwebviewapp:backgroundTint
         */
         public static final int FloatingActionButton_backgroundTint = 1;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#backgroundTintMode}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#backgroundTintMode}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -7699,11 +7699,11 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name XamarinWebViewApp.Droid:backgroundTintMode
+          @attr name xamarinwebviewapp.xamarinwebviewapp:backgroundTintMode
         */
         public static final int FloatingActionButton_backgroundTintMode = 2;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#borderWidth}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#borderWidth}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -7715,11 +7715,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:borderWidth
+          @attr name xamarinwebviewapp.xamarinwebviewapp:borderWidth
         */
         public static final int FloatingActionButton_borderWidth = 6;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#elevation}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#elevation}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -7731,11 +7731,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:elevation
+          @attr name xamarinwebviewapp.xamarinwebviewapp:elevation
         */
         public static final int FloatingActionButton_elevation = 0;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#fabSize}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#fabSize}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -7749,11 +7749,11 @@ containing a value of this type.
 <tr><td><code>normal</code></td><td>0</td><td></td></tr>
 <tr><td><code>mini</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name XamarinWebViewApp.Droid:fabSize
+          @attr name xamarinwebviewapp.xamarinwebviewapp:fabSize
         */
         public static final int FloatingActionButton_fabSize = 4;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#pressedTranslationZ}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#pressedTranslationZ}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -7765,11 +7765,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:pressedTranslationZ
+          @attr name xamarinwebviewapp.xamarinwebviewapp:pressedTranslationZ
         */
         public static final int FloatingActionButton_pressedTranslationZ = 5;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#rippleColor}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#rippleColor}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -7780,11 +7780,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:rippleColor
+          @attr name xamarinwebviewapp.xamarinwebviewapp:rippleColor
         */
         public static final int FloatingActionButton_rippleColor = 3;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#useCompatPadding}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#useCompatPadding}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -7794,7 +7794,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:useCompatPadding
+          @attr name xamarinwebviewapp.xamarinwebviewapp:useCompatPadding
         */
         public static final int FloatingActionButton_useCompatPadding = 7;
         /** Attributes that can be used with a FloatingActionButton_Behavior_Layout.
@@ -7803,7 +7803,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #FloatingActionButton_Behavior_Layout_behavior_autoHide XamarinWebViewApp.Droid:behavior_autoHide}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_Behavior_Layout_behavior_autoHide xamarinwebviewapp.xamarinwebviewapp:behavior_autoHide}</code></td><td></td></tr>
            </table>
            @see #FloatingActionButton_Behavior_Layout_behavior_autoHide
          */
@@ -7811,7 +7811,7 @@ containing a value of this type.
             0x7f010129
         };
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#behavior_autoHide}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#behavior_autoHide}
           attribute's value can be found in the {@link #FloatingActionButton_Behavior_Layout} array.
 
 
@@ -7821,7 +7821,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:behavior_autoHide
+          @attr name xamarinwebviewapp.xamarinwebviewapp:behavior_autoHide
         */
         public static final int FloatingActionButton_Behavior_Layout_behavior_autoHide = 0;
         /** Attributes that can be used with a ForegroundLinearLayout.
@@ -7832,7 +7832,7 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #ForegroundLinearLayout_android_foreground android:foreground}</code></td><td></td></tr>
            <tr><td><code>{@link #ForegroundLinearLayout_android_foregroundGravity android:foregroundGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #ForegroundLinearLayout_foregroundInsidePadding XamarinWebViewApp.Droid:foregroundInsidePadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #ForegroundLinearLayout_foregroundInsidePadding xamarinwebviewapp.xamarinwebviewapp:foregroundInsidePadding}</code></td><td></td></tr>
            </table>
            @see #ForegroundLinearLayout_android_foreground
            @see #ForegroundLinearLayout_android_foregroundGravity
@@ -7854,7 +7854,7 @@ containing a value of this type.
         */
         public static final int ForegroundLinearLayout_android_foregroundGravity = 1;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#foregroundInsidePadding}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#foregroundInsidePadding}
           attribute's value can be found in the {@link #ForegroundLinearLayout} array.
 
 
@@ -7864,7 +7864,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:foregroundInsidePadding
+          @attr name xamarinwebviewapp.xamarinwebviewapp:foregroundInsidePadding
         */
         public static final int ForegroundLinearLayout_foregroundInsidePadding = 2;
         /** Attributes that can be used with a LinearLayoutCompat.
@@ -7878,10 +7878,10 @@ containing a value of this type.
            <tr><td><code>{@link #LinearLayoutCompat_android_gravity android:gravity}</code></td><td></td></tr>
            <tr><td><code>{@link #LinearLayoutCompat_android_orientation android:orientation}</code></td><td></td></tr>
            <tr><td><code>{@link #LinearLayoutCompat_android_weightSum android:weightSum}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_divider XamarinWebViewApp.Droid:divider}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_dividerPadding XamarinWebViewApp.Droid:dividerPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild XamarinWebViewApp.Droid:measureWithLargestChild}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_showDividers XamarinWebViewApp.Droid:showDividers}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_divider xamarinwebviewapp.xamarinwebviewapp:divider}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_dividerPadding xamarinwebviewapp.xamarinwebviewapp:dividerPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild xamarinwebviewapp.xamarinwebviewapp:measureWithLargestChild}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_showDividers xamarinwebviewapp.xamarinwebviewapp:showDividers}</code></td><td></td></tr>
            </table>
            @see #LinearLayoutCompat_android_baselineAligned
            @see #LinearLayoutCompat_android_baselineAlignedChildIndex
@@ -7929,17 +7929,17 @@ containing a value of this type.
         */
         public static final int LinearLayoutCompat_android_weightSum = 4;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#divider}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#divider}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:divider
+          @attr name xamarinwebviewapp.xamarinwebviewapp:divider
         */
         public static final int LinearLayoutCompat_divider = 5;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#dividerPadding}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#dividerPadding}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -7951,11 +7951,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:dividerPadding
+          @attr name xamarinwebviewapp.xamarinwebviewapp:dividerPadding
         */
         public static final int LinearLayoutCompat_dividerPadding = 8;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#measureWithLargestChild}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#measureWithLargestChild}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -7965,11 +7965,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:measureWithLargestChild
+          @attr name xamarinwebviewapp.xamarinwebviewapp:measureWithLargestChild
         */
         public static final int LinearLayoutCompat_measureWithLargestChild = 6;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#showDividers}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#showDividers}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -7984,7 +7984,7 @@ containing a value of this type.
 <tr><td><code>middle</code></td><td>2</td><td></td></tr>
 <tr><td><code>end</code></td><td>4</td><td></td></tr>
 </table>
-          @attr name XamarinWebViewApp.Droid:showDividers
+          @attr name xamarinwebviewapp.xamarinwebviewapp:showDividers
         */
         public static final int LinearLayoutCompat_showDividers = 7;
         /** Attributes that can be used with a LinearLayoutCompat_Layout.
@@ -8065,8 +8065,8 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #MediaRouteButton_android_minHeight android:minHeight}</code></td><td></td></tr>
            <tr><td><code>{@link #MediaRouteButton_android_minWidth android:minWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #MediaRouteButton_buttonTint XamarinWebViewApp.Droid:buttonTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #MediaRouteButton_externalRouteEnabledDrawable XamarinWebViewApp.Droid:externalRouteEnabledDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #MediaRouteButton_buttonTint xamarinwebviewapp.xamarinwebviewapp:buttonTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #MediaRouteButton_externalRouteEnabledDrawable xamarinwebviewapp.xamarinwebviewapp:externalRouteEnabledDrawable}</code></td><td></td></tr>
            </table>
            @see #MediaRouteButton_android_minHeight
            @see #MediaRouteButton_android_minWidth
@@ -8089,7 +8089,7 @@ containing a value of this type.
         */
         public static final int MediaRouteButton_android_minWidth = 0;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#buttonTint}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#buttonTint}
           attribute's value can be found in the {@link #MediaRouteButton} array.
 
 
@@ -8100,17 +8100,17 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:buttonTint
+          @attr name xamarinwebviewapp.xamarinwebviewapp:buttonTint
         */
         public static final int MediaRouteButton_buttonTint = 3;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#externalRouteEnabledDrawable}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#externalRouteEnabledDrawable}
           attribute's value can be found in the {@link #MediaRouteButton} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:externalRouteEnabledDrawable
+          @attr name xamarinwebviewapp.xamarinwebviewapp:externalRouteEnabledDrawable
         */
         public static final int MediaRouteButton_externalRouteEnabledDrawable = 2;
         /** Attributes that can be used with a MenuGroup.
@@ -8179,9 +8179,9 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #MenuItem_actionLayout XamarinWebViewApp.Droid:actionLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_actionProviderClass XamarinWebViewApp.Droid:actionProviderClass}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_actionViewClass XamarinWebViewApp.Droid:actionViewClass}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionLayout xamarinwebviewapp.xamarinwebviewapp:actionLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionProviderClass xamarinwebviewapp.xamarinwebviewapp:actionProviderClass}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionViewClass xamarinwebviewapp.xamarinwebviewapp:actionViewClass}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_alphabeticShortcut android:alphabeticShortcut}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_checkable android:checkable}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_checked android:checked}</code></td><td></td></tr>
@@ -8195,7 +8195,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><td><code>{@link #MenuItem_android_title android:title}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_titleCondensed android:titleCondensed}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_visible android:visible}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_showAsAction XamarinWebViewApp.Droid:showAsAction}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_showAsAction xamarinwebviewapp.xamarinwebviewapp:showAsAction}</code></td><td></td></tr>
            </table>
            @see #MenuItem_actionLayout
            @see #MenuItem_actionProviderClass
@@ -8223,17 +8223,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f0100cb
         };
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#actionLayout}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#actionLayout}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:actionLayout
+          @attr name xamarinwebviewapp.xamarinwebviewapp:actionLayout
         */
         public static final int MenuItem_actionLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#actionProviderClass}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#actionProviderClass}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -8243,11 +8243,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:actionProviderClass
+          @attr name xamarinwebviewapp.xamarinwebviewapp:actionProviderClass
         */
         public static final int MenuItem_actionProviderClass = 16;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#actionViewClass}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#actionViewClass}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -8257,7 +8257,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:actionViewClass
+          @attr name xamarinwebviewapp.xamarinwebviewapp:actionViewClass
         */
         public static final int MenuItem_actionViewClass = 15;
         /**
@@ -8339,7 +8339,7 @@ containing a value of this type.
         */
         public static final int MenuItem_android_visible = 4;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#showAsAction}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#showAsAction}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -8355,7 +8355,7 @@ containing a value of this type.
 <tr><td><code>withText</code></td><td>4</td><td></td></tr>
 <tr><td><code>collapseActionView</code></td><td>8</td><td></td></tr>
 </table>
-          @attr name XamarinWebViewApp.Droid:showAsAction
+          @attr name xamarinwebviewapp.xamarinwebviewapp:showAsAction
         */
         public static final int MenuItem_showAsAction = 13;
         /** Attributes that can be used with a MenuView.
@@ -8371,8 +8371,8 @@ containing a value of this type.
            <tr><td><code>{@link #MenuView_android_itemTextAppearance android:itemTextAppearance}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuView_android_verticalDivider android:verticalDivider}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuView_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuView_preserveIconSpacing XamarinWebViewApp.Droid:preserveIconSpacing}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuView_subMenuArrow XamarinWebViewApp.Droid:subMenuArrow}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuView_preserveIconSpacing xamarinwebviewapp.xamarinwebviewapp:preserveIconSpacing}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuView_subMenuArrow xamarinwebviewapp.xamarinwebviewapp:subMenuArrow}</code></td><td></td></tr>
            </table>
            @see #MenuView_android_headerBackground
            @see #MenuView_android_horizontalDivider
@@ -8432,7 +8432,7 @@ containing a value of this type.
         */
         public static final int MenuView_android_windowAnimationStyle = 0;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#preserveIconSpacing}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#preserveIconSpacing}
           attribute's value can be found in the {@link #MenuView} array.
 
 
@@ -8442,17 +8442,17 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:preserveIconSpacing
+          @attr name xamarinwebviewapp.xamarinwebviewapp:preserveIconSpacing
         */
         public static final int MenuView_preserveIconSpacing = 7;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#subMenuArrow}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#subMenuArrow}
           attribute's value can be found in the {@link #MenuView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:subMenuArrow
+          @attr name xamarinwebviewapp.xamarinwebviewapp:subMenuArrow
         */
         public static final int MenuView_subMenuArrow = 8;
         /** Attributes that can be used with a NavigationView.
@@ -8464,13 +8464,13 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><td><code>{@link #NavigationView_android_background android:background}</code></td><td></td></tr>
            <tr><td><code>{@link #NavigationView_android_fitsSystemWindows android:fitsSystemWindows}</code></td><td></td></tr>
            <tr><td><code>{@link #NavigationView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_elevation XamarinWebViewApp.Droid:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_headerLayout XamarinWebViewApp.Droid:headerLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_itemBackground XamarinWebViewApp.Droid:itemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_itemIconTint XamarinWebViewApp.Droid:itemIconTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_itemTextAppearance XamarinWebViewApp.Droid:itemTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_itemTextColor XamarinWebViewApp.Droid:itemTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_menu XamarinWebViewApp.Droid:menu}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_elevation xamarinwebviewapp.xamarinwebviewapp:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_headerLayout xamarinwebviewapp.xamarinwebviewapp:headerLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_itemBackground xamarinwebviewapp.xamarinwebviewapp:itemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_itemIconTint xamarinwebviewapp.xamarinwebviewapp:itemIconTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_itemTextAppearance xamarinwebviewapp.xamarinwebviewapp:itemTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_itemTextColor xamarinwebviewapp.xamarinwebviewapp:itemTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_menu xamarinwebviewapp.xamarinwebviewapp:menu}</code></td><td></td></tr>
            </table>
            @see #NavigationView_android_background
            @see #NavigationView_android_fitsSystemWindows
@@ -8507,7 +8507,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int NavigationView_android_maxWidth = 2;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#elevation}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#elevation}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
@@ -8519,31 +8519,31 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:elevation
+          @attr name xamarinwebviewapp.xamarinwebviewapp:elevation
         */
         public static final int NavigationView_elevation = 3;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#headerLayout}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#headerLayout}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:headerLayout
+          @attr name xamarinwebviewapp.xamarinwebviewapp:headerLayout
         */
         public static final int NavigationView_headerLayout = 9;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#itemBackground}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#itemBackground}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:itemBackground
+          @attr name xamarinwebviewapp.xamarinwebviewapp:itemBackground
         */
         public static final int NavigationView_itemBackground = 7;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#itemIconTint}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#itemIconTint}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
@@ -8554,21 +8554,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:itemIconTint
+          @attr name xamarinwebviewapp.xamarinwebviewapp:itemIconTint
         */
         public static final int NavigationView_itemIconTint = 5;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#itemTextAppearance}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#itemTextAppearance}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:itemTextAppearance
+          @attr name xamarinwebviewapp.xamarinwebviewapp:itemTextAppearance
         */
         public static final int NavigationView_itemTextAppearance = 8;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#itemTextColor}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#itemTextColor}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
@@ -8579,17 +8579,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:itemTextColor
+          @attr name xamarinwebviewapp.xamarinwebviewapp:itemTextColor
         */
         public static final int NavigationView_itemTextColor = 6;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#menu}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#menu}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:menu
+          @attr name xamarinwebviewapp.xamarinwebviewapp:menu
         */
         public static final int NavigationView_menu = 4;
         /** Attributes that can be used with a PopupWindow.
@@ -8600,7 +8600,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #PopupWindow_android_popupAnimationStyle android:popupAnimationStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #PopupWindow_android_popupBackground android:popupBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #PopupWindow_overlapAnchor XamarinWebViewApp.Droid:overlapAnchor}</code></td><td></td></tr>
+           <tr><td><code>{@link #PopupWindow_overlapAnchor xamarinwebviewapp.xamarinwebviewapp:overlapAnchor}</code></td><td></td></tr>
            </table>
            @see #PopupWindow_android_popupAnimationStyle
            @see #PopupWindow_android_popupBackground
@@ -8622,7 +8622,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int PopupWindow_android_popupBackground = 0;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#overlapAnchor}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#overlapAnchor}
           attribute's value can be found in the {@link #PopupWindow} array.
 
 
@@ -8632,7 +8632,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:overlapAnchor
+          @attr name xamarinwebviewapp.xamarinwebviewapp:overlapAnchor
         */
         public static final int PopupWindow_overlapAnchor = 2;
         /** Attributes that can be used with a PopupWindowBackgroundState.
@@ -8641,7 +8641,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor XamarinWebViewApp.Droid:state_above_anchor}</code></td><td></td></tr>
+           <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor xamarinwebviewapp.xamarinwebviewapp:state_above_anchor}</code></td><td></td></tr>
            </table>
            @see #PopupWindowBackgroundState_state_above_anchor
          */
@@ -8649,7 +8649,7 @@ containing a value of this type.
             0x7f0100cf
         };
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#state_above_anchor}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#state_above_anchor}
           attribute's value can be found in the {@link #PopupWindowBackgroundState} array.
 
 
@@ -8659,7 +8659,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:state_above_anchor
+          @attr name xamarinwebviewapp.xamarinwebviewapp:state_above_anchor
         */
         public static final int PopupWindowBackgroundState_state_above_anchor = 0;
         /** Attributes that can be used with a RecycleListView.
@@ -8668,8 +8668,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #RecycleListView_paddingBottomNoButtons XamarinWebViewApp.Droid:paddingBottomNoButtons}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecycleListView_paddingTopNoTitle XamarinWebViewApp.Droid:paddingTopNoTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecycleListView_paddingBottomNoButtons xamarinwebviewapp.xamarinwebviewapp:paddingBottomNoButtons}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecycleListView_paddingTopNoTitle xamarinwebviewapp.xamarinwebviewapp:paddingTopNoTitle}</code></td><td></td></tr>
            </table>
            @see #RecycleListView_paddingBottomNoButtons
            @see #RecycleListView_paddingTopNoTitle
@@ -8678,7 +8678,7 @@ containing a value of this type.
             0x7f0100d0, 0x7f0100d1
         };
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#paddingBottomNoButtons}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#paddingBottomNoButtons}
           attribute's value can be found in the {@link #RecycleListView} array.
 
 
@@ -8690,11 +8690,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:paddingBottomNoButtons
+          @attr name xamarinwebviewapp.xamarinwebviewapp:paddingBottomNoButtons
         */
         public static final int RecycleListView_paddingBottomNoButtons = 0;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#paddingTopNoTitle}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#paddingTopNoTitle}
           attribute's value can be found in the {@link #RecycleListView} array.
 
 
@@ -8706,7 +8706,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:paddingTopNoTitle
+          @attr name xamarinwebviewapp.xamarinwebviewapp:paddingTopNoTitle
         */
         public static final int RecycleListView_paddingTopNoTitle = 1;
         /** Attributes that can be used with a RecyclerView.
@@ -8717,10 +8717,10 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #RecyclerView_android_descendantFocusability android:descendantFocusability}</code></td><td></td></tr>
            <tr><td><code>{@link #RecyclerView_android_orientation android:orientation}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_layoutManager XamarinWebViewApp.Droid:layoutManager}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_reverseLayout XamarinWebViewApp.Droid:reverseLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_spanCount XamarinWebViewApp.Droid:spanCount}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_stackFromEnd XamarinWebViewApp.Droid:stackFromEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_layoutManager xamarinwebviewapp.xamarinwebviewapp:layoutManager}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_reverseLayout xamarinwebviewapp.xamarinwebviewapp:reverseLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_spanCount xamarinwebviewapp.xamarinwebviewapp:spanCount}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_stackFromEnd xamarinwebviewapp.xamarinwebviewapp:stackFromEnd}</code></td><td></td></tr>
            </table>
            @see #RecyclerView_android_descendantFocusability
            @see #RecyclerView_android_orientation
@@ -8746,7 +8746,7 @@ containing a value of this type.
         */
         public static final int RecyclerView_android_orientation = 0;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#layoutManager}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#layoutManager}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
@@ -8756,11 +8756,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:layoutManager
+          @attr name xamarinwebviewapp.xamarinwebviewapp:layoutManager
         */
         public static final int RecyclerView_layoutManager = 2;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#reverseLayout}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#reverseLayout}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
@@ -8770,11 +8770,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:reverseLayout
+          @attr name xamarinwebviewapp.xamarinwebviewapp:reverseLayout
         */
         public static final int RecyclerView_reverseLayout = 4;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#spanCount}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#spanCount}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
@@ -8784,11 +8784,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:spanCount
+          @attr name xamarinwebviewapp.xamarinwebviewapp:spanCount
         */
         public static final int RecyclerView_spanCount = 3;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#stackFromEnd}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#stackFromEnd}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
@@ -8798,7 +8798,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:stackFromEnd
+          @attr name xamarinwebviewapp.xamarinwebviewapp:stackFromEnd
         */
         public static final int RecyclerView_stackFromEnd = 5;
         /** Attributes that can be used with a ScrimInsetsFrameLayout.
@@ -8807,7 +8807,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ScrimInsetsFrameLayout_insetForeground XamarinWebViewApp.Droid:insetForeground}</code></td><td></td></tr>
+           <tr><td><code>{@link #ScrimInsetsFrameLayout_insetForeground xamarinwebviewapp.xamarinwebviewapp:insetForeground}</code></td><td></td></tr>
            </table>
            @see #ScrimInsetsFrameLayout_insetForeground
          */
@@ -8815,7 +8815,7 @@ containing a value of this type.
             0x7f010131
         };
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#insetForeground}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#insetForeground}
           attribute's value can be found in the {@link #ScrimInsetsFrameLayout} array.
 
 
@@ -8823,7 +8823,7 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name XamarinWebViewApp.Droid:insetForeground
+          @attr name xamarinwebviewapp.xamarinwebviewapp:insetForeground
         */
         public static final int ScrimInsetsFrameLayout_insetForeground = 0;
         /** Attributes that can be used with a ScrollingViewBehavior_Layout.
@@ -8832,7 +8832,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ScrollingViewBehavior_Layout_behavior_overlapTop XamarinWebViewApp.Droid:behavior_overlapTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #ScrollingViewBehavior_Layout_behavior_overlapTop xamarinwebviewapp.xamarinwebviewapp:behavior_overlapTop}</code></td><td></td></tr>
            </table>
            @see #ScrollingViewBehavior_Layout_behavior_overlapTop
          */
@@ -8840,7 +8840,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f010132
         };
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#behavior_overlapTop}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#behavior_overlapTop}
           attribute's value can be found in the {@link #ScrollingViewBehavior_Layout} array.
 
 
@@ -8852,7 +8852,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:behavior_overlapTop
+          @attr name xamarinwebviewapp.xamarinwebviewapp:behavior_overlapTop
         */
         public static final int ScrollingViewBehavior_Layout_behavior_overlapTop = 0;
         /** Attributes that can be used with a SearchView.
@@ -8865,19 +8865,19 @@ containing a value of this type.
            <tr><td><code>{@link #SearchView_android_imeOptions android:imeOptions}</code></td><td></td></tr>
            <tr><td><code>{@link #SearchView_android_inputType android:inputType}</code></td><td></td></tr>
            <tr><td><code>{@link #SearchView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_closeIcon XamarinWebViewApp.Droid:closeIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_commitIcon XamarinWebViewApp.Droid:commitIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_defaultQueryHint XamarinWebViewApp.Droid:defaultQueryHint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_goIcon XamarinWebViewApp.Droid:goIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_iconifiedByDefault XamarinWebViewApp.Droid:iconifiedByDefault}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_layout XamarinWebViewApp.Droid:layout}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_queryBackground XamarinWebViewApp.Droid:queryBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_queryHint XamarinWebViewApp.Droid:queryHint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_searchHintIcon XamarinWebViewApp.Droid:searchHintIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_searchIcon XamarinWebViewApp.Droid:searchIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_submitBackground XamarinWebViewApp.Droid:submitBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_suggestionRowLayout XamarinWebViewApp.Droid:suggestionRowLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_voiceIcon XamarinWebViewApp.Droid:voiceIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_closeIcon xamarinwebviewapp.xamarinwebviewapp:closeIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_commitIcon xamarinwebviewapp.xamarinwebviewapp:commitIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_defaultQueryHint xamarinwebviewapp.xamarinwebviewapp:defaultQueryHint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_goIcon xamarinwebviewapp.xamarinwebviewapp:goIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_iconifiedByDefault xamarinwebviewapp.xamarinwebviewapp:iconifiedByDefault}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_layout xamarinwebviewapp.xamarinwebviewapp:layout}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_queryBackground xamarinwebviewapp.xamarinwebviewapp:queryBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_queryHint xamarinwebviewapp.xamarinwebviewapp:queryHint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_searchHintIcon xamarinwebviewapp.xamarinwebviewapp:searchHintIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_searchIcon xamarinwebviewapp.xamarinwebviewapp:searchIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_submitBackground xamarinwebviewapp.xamarinwebviewapp:submitBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_suggestionRowLayout xamarinwebviewapp.xamarinwebviewapp:suggestionRowLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_voiceIcon xamarinwebviewapp.xamarinwebviewapp:voiceIcon}</code></td><td></td></tr>
            </table>
            @see #SearchView_android_focusable
            @see #SearchView_android_imeOptions
@@ -8929,27 +8929,27 @@ containing a value of this type.
         */
         public static final int SearchView_android_maxWidth = 1;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#closeIcon}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#closeIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:closeIcon
+          @attr name xamarinwebviewapp.xamarinwebviewapp:closeIcon
         */
         public static final int SearchView_closeIcon = 8;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#commitIcon}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#commitIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:commitIcon
+          @attr name xamarinwebviewapp.xamarinwebviewapp:commitIcon
         */
         public static final int SearchView_commitIcon = 13;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#defaultQueryHint}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#defaultQueryHint}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -8959,21 +8959,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:defaultQueryHint
+          @attr name xamarinwebviewapp.xamarinwebviewapp:defaultQueryHint
         */
         public static final int SearchView_defaultQueryHint = 7;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#goIcon}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#goIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:goIcon
+          @attr name xamarinwebviewapp.xamarinwebviewapp:goIcon
         */
         public static final int SearchView_goIcon = 9;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#iconifiedByDefault}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#iconifiedByDefault}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -8983,31 +8983,31 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:iconifiedByDefault
+          @attr name xamarinwebviewapp.xamarinwebviewapp:iconifiedByDefault
         */
         public static final int SearchView_iconifiedByDefault = 5;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#layout}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#layout}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:layout
+          @attr name xamarinwebviewapp.xamarinwebviewapp:layout
         */
         public static final int SearchView_layout = 4;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#queryBackground}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#queryBackground}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:queryBackground
+          @attr name xamarinwebviewapp.xamarinwebviewapp:queryBackground
         */
         public static final int SearchView_queryBackground = 15;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#queryHint}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#queryHint}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -9017,57 +9017,57 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:queryHint
+          @attr name xamarinwebviewapp.xamarinwebviewapp:queryHint
         */
         public static final int SearchView_queryHint = 6;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#searchHintIcon}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#searchHintIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:searchHintIcon
+          @attr name xamarinwebviewapp.xamarinwebviewapp:searchHintIcon
         */
         public static final int SearchView_searchHintIcon = 11;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#searchIcon}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#searchIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:searchIcon
+          @attr name xamarinwebviewapp.xamarinwebviewapp:searchIcon
         */
         public static final int SearchView_searchIcon = 10;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#submitBackground}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#submitBackground}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:submitBackground
+          @attr name xamarinwebviewapp.xamarinwebviewapp:submitBackground
         */
         public static final int SearchView_submitBackground = 16;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#suggestionRowLayout}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#suggestionRowLayout}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:suggestionRowLayout
+          @attr name xamarinwebviewapp.xamarinwebviewapp:suggestionRowLayout
         */
         public static final int SearchView_suggestionRowLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#voiceIcon}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#voiceIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:voiceIcon
+          @attr name xamarinwebviewapp.xamarinwebviewapp:voiceIcon
         */
         public static final int SearchView_voiceIcon = 12;
         /** Attributes that can be used with a SnackbarLayout.
@@ -9077,8 +9077,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #SnackbarLayout_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SnackbarLayout_elevation XamarinWebViewApp.Droid:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #SnackbarLayout_maxActionInlineWidth XamarinWebViewApp.Droid:maxActionInlineWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #SnackbarLayout_elevation xamarinwebviewapp.xamarinwebviewapp:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #SnackbarLayout_maxActionInlineWidth xamarinwebviewapp.xamarinwebviewapp:maxActionInlineWidth}</code></td><td></td></tr>
            </table>
            @see #SnackbarLayout_android_maxWidth
            @see #SnackbarLayout_elevation
@@ -9094,7 +9094,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int SnackbarLayout_android_maxWidth = 0;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#elevation}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#elevation}
           attribute's value can be found in the {@link #SnackbarLayout} array.
 
 
@@ -9106,11 +9106,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:elevation
+          @attr name xamarinwebviewapp.xamarinwebviewapp:elevation
         */
         public static final int SnackbarLayout_elevation = 1;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#maxActionInlineWidth}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#maxActionInlineWidth}
           attribute's value can be found in the {@link #SnackbarLayout} array.
 
 
@@ -9122,7 +9122,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:maxActionInlineWidth
+          @attr name xamarinwebviewapp.xamarinwebviewapp:maxActionInlineWidth
         */
         public static final int SnackbarLayout_maxActionInlineWidth = 2;
         /** Attributes that can be used with a Spinner.
@@ -9135,7 +9135,7 @@ containing a value of this type.
            <tr><td><code>{@link #Spinner_android_entries android:entries}</code></td><td></td></tr>
            <tr><td><code>{@link #Spinner_android_popupBackground android:popupBackground}</code></td><td></td></tr>
            <tr><td><code>{@link #Spinner_android_prompt android:prompt}</code></td><td></td></tr>
-           <tr><td><code>{@link #Spinner_popupTheme XamarinWebViewApp.Droid:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Spinner_popupTheme xamarinwebviewapp.xamarinwebviewapp:popupTheme}</code></td><td></td></tr>
            </table>
            @see #Spinner_android_dropDownWidth
            @see #Spinner_android_entries
@@ -9172,13 +9172,13 @@ containing a value of this type.
         */
         public static final int Spinner_android_prompt = 2;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#popupTheme}
           attribute's value can be found in the {@link #Spinner} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:popupTheme
+          @attr name xamarinwebviewapp.xamarinwebviewapp:popupTheme
         */
         public static final int Spinner_popupTheme = 4;
         /** Attributes that can be used with a SwitchCompat.
@@ -9190,17 +9190,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><td><code>{@link #SwitchCompat_android_textOff android:textOff}</code></td><td></td></tr>
            <tr><td><code>{@link #SwitchCompat_android_textOn android:textOn}</code></td><td></td></tr>
            <tr><td><code>{@link #SwitchCompat_android_thumb android:thumb}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_showText XamarinWebViewApp.Droid:showText}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_splitTrack XamarinWebViewApp.Droid:splitTrack}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchMinWidth XamarinWebViewApp.Droid:switchMinWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchPadding XamarinWebViewApp.Droid:switchPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchTextAppearance XamarinWebViewApp.Droid:switchTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_thumbTextPadding XamarinWebViewApp.Droid:thumbTextPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_thumbTint XamarinWebViewApp.Droid:thumbTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_thumbTintMode XamarinWebViewApp.Droid:thumbTintMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_track XamarinWebViewApp.Droid:track}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_trackTint XamarinWebViewApp.Droid:trackTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_trackTintMode XamarinWebViewApp.Droid:trackTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_showText xamarinwebviewapp.xamarinwebviewapp:showText}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_splitTrack xamarinwebviewapp.xamarinwebviewapp:splitTrack}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchMinWidth xamarinwebviewapp.xamarinwebviewapp:switchMinWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchPadding xamarinwebviewapp.xamarinwebviewapp:switchPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchTextAppearance xamarinwebviewapp.xamarinwebviewapp:switchTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_thumbTextPadding xamarinwebviewapp.xamarinwebviewapp:thumbTextPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_thumbTint xamarinwebviewapp.xamarinwebviewapp:thumbTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_thumbTintMode xamarinwebviewapp.xamarinwebviewapp:thumbTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_track xamarinwebviewapp.xamarinwebviewapp:track}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_trackTint xamarinwebviewapp.xamarinwebviewapp:trackTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_trackTintMode xamarinwebviewapp.xamarinwebviewapp:trackTintMode}</code></td><td></td></tr>
            </table>
            @see #SwitchCompat_android_textOff
            @see #SwitchCompat_android_textOn
@@ -9242,7 +9242,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int SwitchCompat_android_thumb = 2;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#showText}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#showText}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -9252,11 +9252,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:showText
+          @attr name xamarinwebviewapp.xamarinwebviewapp:showText
         */
         public static final int SwitchCompat_showText = 13;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#splitTrack}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#splitTrack}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -9266,11 +9266,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:splitTrack
+          @attr name xamarinwebviewapp.xamarinwebviewapp:splitTrack
         */
         public static final int SwitchCompat_splitTrack = 12;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#switchMinWidth}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#switchMinWidth}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -9282,11 +9282,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:switchMinWidth
+          @attr name xamarinwebviewapp.xamarinwebviewapp:switchMinWidth
         */
         public static final int SwitchCompat_switchMinWidth = 10;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#switchPadding}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#switchPadding}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -9298,21 +9298,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:switchPadding
+          @attr name xamarinwebviewapp.xamarinwebviewapp:switchPadding
         */
         public static final int SwitchCompat_switchPadding = 11;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#switchTextAppearance}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#switchTextAppearance}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:switchTextAppearance
+          @attr name xamarinwebviewapp.xamarinwebviewapp:switchTextAppearance
         */
         public static final int SwitchCompat_switchTextAppearance = 9;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#thumbTextPadding}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#thumbTextPadding}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -9324,11 +9324,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:thumbTextPadding
+          @attr name xamarinwebviewapp.xamarinwebviewapp:thumbTextPadding
         */
         public static final int SwitchCompat_thumbTextPadding = 8;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#thumbTint}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#thumbTint}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -9339,11 +9339,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:thumbTint
+          @attr name xamarinwebviewapp.xamarinwebviewapp:thumbTint
         */
         public static final int SwitchCompat_thumbTint = 3;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#thumbTintMode}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#thumbTintMode}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -9360,21 +9360,21 @@ containing a value of this type.
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 <tr><td><code>add</code></td><td>16</td><td></td></tr>
 </table>
-          @attr name XamarinWebViewApp.Droid:thumbTintMode
+          @attr name xamarinwebviewapp.xamarinwebviewapp:thumbTintMode
         */
         public static final int SwitchCompat_thumbTintMode = 4;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#track}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#track}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:track
+          @attr name xamarinwebviewapp.xamarinwebviewapp:track
         */
         public static final int SwitchCompat_track = 5;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#trackTint}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#trackTint}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -9385,11 +9385,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:trackTint
+          @attr name xamarinwebviewapp.xamarinwebviewapp:trackTint
         */
         public static final int SwitchCompat_trackTint = 6;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#trackTintMode}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#trackTintMode}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -9406,7 +9406,7 @@ containing a value of this type.
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 <tr><td><code>add</code></td><td>16</td><td></td></tr>
 </table>
-          @attr name XamarinWebViewApp.Droid:trackTintMode
+          @attr name xamarinwebviewapp.xamarinwebviewapp:trackTintMode
         */
         public static final int SwitchCompat_trackTintMode = 7;
         /** Attributes that can be used with a TabItem.
@@ -9450,22 +9450,22 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #TabLayout_tabBackground XamarinWebViewApp.Droid:tabBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabContentStart XamarinWebViewApp.Droid:tabContentStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabGravity XamarinWebViewApp.Droid:tabGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabIndicatorColor XamarinWebViewApp.Droid:tabIndicatorColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabIndicatorHeight XamarinWebViewApp.Droid:tabIndicatorHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabMaxWidth XamarinWebViewApp.Droid:tabMaxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabMinWidth XamarinWebViewApp.Droid:tabMinWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabMode XamarinWebViewApp.Droid:tabMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPadding XamarinWebViewApp.Droid:tabPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPaddingBottom XamarinWebViewApp.Droid:tabPaddingBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPaddingEnd XamarinWebViewApp.Droid:tabPaddingEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPaddingStart XamarinWebViewApp.Droid:tabPaddingStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPaddingTop XamarinWebViewApp.Droid:tabPaddingTop}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabSelectedTextColor XamarinWebViewApp.Droid:tabSelectedTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabTextAppearance XamarinWebViewApp.Droid:tabTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabTextColor XamarinWebViewApp.Droid:tabTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabBackground xamarinwebviewapp.xamarinwebviewapp:tabBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabContentStart xamarinwebviewapp.xamarinwebviewapp:tabContentStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabGravity xamarinwebviewapp.xamarinwebviewapp:tabGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabIndicatorColor xamarinwebviewapp.xamarinwebviewapp:tabIndicatorColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabIndicatorHeight xamarinwebviewapp.xamarinwebviewapp:tabIndicatorHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabMaxWidth xamarinwebviewapp.xamarinwebviewapp:tabMaxWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabMinWidth xamarinwebviewapp.xamarinwebviewapp:tabMinWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabMode xamarinwebviewapp.xamarinwebviewapp:tabMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPadding xamarinwebviewapp.xamarinwebviewapp:tabPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPaddingBottom xamarinwebviewapp.xamarinwebviewapp:tabPaddingBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPaddingEnd xamarinwebviewapp.xamarinwebviewapp:tabPaddingEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPaddingStart xamarinwebviewapp.xamarinwebviewapp:tabPaddingStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPaddingTop xamarinwebviewapp.xamarinwebviewapp:tabPaddingTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabSelectedTextColor xamarinwebviewapp.xamarinwebviewapp:tabSelectedTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabTextAppearance xamarinwebviewapp.xamarinwebviewapp:tabTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabTextColor xamarinwebviewapp.xamarinwebviewapp:tabTextColor}</code></td><td></td></tr>
            </table>
            @see #TabLayout_tabBackground
            @see #TabLayout_tabContentStart
@@ -9491,17 +9491,17 @@ containing a value of this type.
             0x7f010140, 0x7f010141, 0x7f010142, 0x7f010143
         };
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#tabBackground}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#tabBackground}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:tabBackground
+          @attr name xamarinwebviewapp.xamarinwebviewapp:tabBackground
         */
         public static final int TabLayout_tabBackground = 3;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#tabContentStart}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#tabContentStart}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9513,11 +9513,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:tabContentStart
+          @attr name xamarinwebviewapp.xamarinwebviewapp:tabContentStart
         */
         public static final int TabLayout_tabContentStart = 2;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#tabGravity}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#tabGravity}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9530,11 +9530,11 @@ containing a value of this type.
 <tr><td><code>fill</code></td><td>0</td><td></td></tr>
 <tr><td><code>center</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name XamarinWebViewApp.Droid:tabGravity
+          @attr name xamarinwebviewapp.xamarinwebviewapp:tabGravity
         */
         public static final int TabLayout_tabGravity = 5;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#tabIndicatorColor}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#tabIndicatorColor}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9545,11 +9545,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:tabIndicatorColor
+          @attr name xamarinwebviewapp.xamarinwebviewapp:tabIndicatorColor
         */
         public static final int TabLayout_tabIndicatorColor = 0;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#tabIndicatorHeight}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#tabIndicatorHeight}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9561,11 +9561,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:tabIndicatorHeight
+          @attr name xamarinwebviewapp.xamarinwebviewapp:tabIndicatorHeight
         */
         public static final int TabLayout_tabIndicatorHeight = 1;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#tabMaxWidth}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#tabMaxWidth}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9577,11 +9577,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:tabMaxWidth
+          @attr name xamarinwebviewapp.xamarinwebviewapp:tabMaxWidth
         */
         public static final int TabLayout_tabMaxWidth = 7;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#tabMinWidth}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#tabMinWidth}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9593,11 +9593,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:tabMinWidth
+          @attr name xamarinwebviewapp.xamarinwebviewapp:tabMinWidth
         */
         public static final int TabLayout_tabMinWidth = 6;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#tabMode}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#tabMode}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9610,11 +9610,11 @@ containing a value of this type.
 <tr><td><code>scrollable</code></td><td>0</td><td></td></tr>
 <tr><td><code>fixed</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name XamarinWebViewApp.Droid:tabMode
+          @attr name xamarinwebviewapp.xamarinwebviewapp:tabMode
         */
         public static final int TabLayout_tabMode = 4;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#tabPadding}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#tabPadding}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9626,11 +9626,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:tabPadding
+          @attr name xamarinwebviewapp.xamarinwebviewapp:tabPadding
         */
         public static final int TabLayout_tabPadding = 15;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#tabPaddingBottom}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#tabPaddingBottom}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9642,11 +9642,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:tabPaddingBottom
+          @attr name xamarinwebviewapp.xamarinwebviewapp:tabPaddingBottom
         */
         public static final int TabLayout_tabPaddingBottom = 14;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#tabPaddingEnd}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#tabPaddingEnd}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9658,11 +9658,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:tabPaddingEnd
+          @attr name xamarinwebviewapp.xamarinwebviewapp:tabPaddingEnd
         */
         public static final int TabLayout_tabPaddingEnd = 13;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#tabPaddingStart}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#tabPaddingStart}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9674,11 +9674,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:tabPaddingStart
+          @attr name xamarinwebviewapp.xamarinwebviewapp:tabPaddingStart
         */
         public static final int TabLayout_tabPaddingStart = 11;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#tabPaddingTop}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#tabPaddingTop}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9690,11 +9690,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:tabPaddingTop
+          @attr name xamarinwebviewapp.xamarinwebviewapp:tabPaddingTop
         */
         public static final int TabLayout_tabPaddingTop = 12;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#tabSelectedTextColor}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#tabSelectedTextColor}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9705,21 +9705,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:tabSelectedTextColor
+          @attr name xamarinwebviewapp.xamarinwebviewapp:tabSelectedTextColor
         */
         public static final int TabLayout_tabSelectedTextColor = 10;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#tabTextAppearance}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#tabTextAppearance}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:tabTextAppearance
+          @attr name xamarinwebviewapp.xamarinwebviewapp:tabTextAppearance
         */
         public static final int TabLayout_tabTextAppearance = 8;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#tabTextColor}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#tabTextColor}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9730,7 +9730,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:tabTextColor
+          @attr name xamarinwebviewapp.xamarinwebviewapp:tabTextColor
         */
         public static final int TabLayout_tabTextColor = 9;
         /** Attributes that can be used with a TextAppearance.
@@ -9748,7 +9748,7 @@ containing a value of this type.
            <tr><td><code>{@link #TextAppearance_android_textSize android:textSize}</code></td><td></td></tr>
            <tr><td><code>{@link #TextAppearance_android_textStyle android:textStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #TextAppearance_android_typeface android:typeface}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextAppearance_textAllCaps XamarinWebViewApp.Droid:textAllCaps}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextAppearance_textAllCaps xamarinwebviewapp.xamarinwebviewapp:textAllCaps}</code></td><td></td></tr>
            </table>
            @see #TextAppearance_android_shadowColor
            @see #TextAppearance_android_shadowDx
@@ -9821,14 +9821,14 @@ containing a value of this type.
         */
         public static final int TextAppearance_android_typeface = 1;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#textAllCaps}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#textAllCaps}
           attribute's value can be found in the {@link #TextAppearance} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
-          @attr name XamarinWebViewApp.Droid:textAllCaps
+          @attr name xamarinwebviewapp.xamarinwebviewapp:textAllCaps
         */
         public static final int TextAppearance_textAllCaps = 9;
         /** Attributes that can be used with a TextInputLayout.
@@ -9839,20 +9839,20 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #TextInputLayout_android_hint android:hint}</code></td><td></td></tr>
            <tr><td><code>{@link #TextInputLayout_android_textColorHint android:textColorHint}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_counterEnabled XamarinWebViewApp.Droid:counterEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_counterMaxLength XamarinWebViewApp.Droid:counterMaxLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_counterOverflowTextAppearance XamarinWebViewApp.Droid:counterOverflowTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_counterTextAppearance XamarinWebViewApp.Droid:counterTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_errorEnabled XamarinWebViewApp.Droid:errorEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_errorTextAppearance XamarinWebViewApp.Droid:errorTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_hintAnimationEnabled XamarinWebViewApp.Droid:hintAnimationEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_hintEnabled XamarinWebViewApp.Droid:hintEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_hintTextAppearance XamarinWebViewApp.Droid:hintTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_passwordToggleContentDescription XamarinWebViewApp.Droid:passwordToggleContentDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_passwordToggleDrawable XamarinWebViewApp.Droid:passwordToggleDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_passwordToggleEnabled XamarinWebViewApp.Droid:passwordToggleEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_passwordToggleTint XamarinWebViewApp.Droid:passwordToggleTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_passwordToggleTintMode XamarinWebViewApp.Droid:passwordToggleTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_counterEnabled xamarinwebviewapp.xamarinwebviewapp:counterEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_counterMaxLength xamarinwebviewapp.xamarinwebviewapp:counterMaxLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_counterOverflowTextAppearance xamarinwebviewapp.xamarinwebviewapp:counterOverflowTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_counterTextAppearance xamarinwebviewapp.xamarinwebviewapp:counterTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_errorEnabled xamarinwebviewapp.xamarinwebviewapp:errorEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_errorTextAppearance xamarinwebviewapp.xamarinwebviewapp:errorTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_hintAnimationEnabled xamarinwebviewapp.xamarinwebviewapp:hintAnimationEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_hintEnabled xamarinwebviewapp.xamarinwebviewapp:hintEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_hintTextAppearance xamarinwebviewapp.xamarinwebviewapp:hintTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_passwordToggleContentDescription xamarinwebviewapp.xamarinwebviewapp:passwordToggleContentDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_passwordToggleDrawable xamarinwebviewapp.xamarinwebviewapp:passwordToggleDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_passwordToggleEnabled xamarinwebviewapp.xamarinwebviewapp:passwordToggleEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_passwordToggleTint xamarinwebviewapp.xamarinwebviewapp:passwordToggleTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_passwordToggleTintMode xamarinwebviewapp.xamarinwebviewapp:passwordToggleTintMode}</code></td><td></td></tr>
            </table>
            @see #TextInputLayout_android_hint
            @see #TextInputLayout_android_textColorHint
@@ -9890,7 +9890,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int TextInputLayout_android_textColorHint = 0;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#counterEnabled}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#counterEnabled}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -9900,11 +9900,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:counterEnabled
+          @attr name xamarinwebviewapp.xamarinwebviewapp:counterEnabled
         */
         public static final int TextInputLayout_counterEnabled = 6;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#counterMaxLength}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#counterMaxLength}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -9914,31 +9914,31 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:counterMaxLength
+          @attr name xamarinwebviewapp.xamarinwebviewapp:counterMaxLength
         */
         public static final int TextInputLayout_counterMaxLength = 7;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#counterOverflowTextAppearance}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#counterOverflowTextAppearance}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:counterOverflowTextAppearance
+          @attr name xamarinwebviewapp.xamarinwebviewapp:counterOverflowTextAppearance
         */
         public static final int TextInputLayout_counterOverflowTextAppearance = 9;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#counterTextAppearance}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#counterTextAppearance}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:counterTextAppearance
+          @attr name xamarinwebviewapp.xamarinwebviewapp:counterTextAppearance
         */
         public static final int TextInputLayout_counterTextAppearance = 8;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#errorEnabled}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#errorEnabled}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -9948,21 +9948,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:errorEnabled
+          @attr name xamarinwebviewapp.xamarinwebviewapp:errorEnabled
         */
         public static final int TextInputLayout_errorEnabled = 4;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#errorTextAppearance}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#errorTextAppearance}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:errorTextAppearance
+          @attr name xamarinwebviewapp.xamarinwebviewapp:errorTextAppearance
         */
         public static final int TextInputLayout_errorTextAppearance = 5;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#hintAnimationEnabled}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#hintAnimationEnabled}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -9972,11 +9972,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:hintAnimationEnabled
+          @attr name xamarinwebviewapp.xamarinwebviewapp:hintAnimationEnabled
         */
         public static final int TextInputLayout_hintAnimationEnabled = 10;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#hintEnabled}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#hintEnabled}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -9986,21 +9986,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:hintEnabled
+          @attr name xamarinwebviewapp.xamarinwebviewapp:hintEnabled
         */
         public static final int TextInputLayout_hintEnabled = 3;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#hintTextAppearance}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#hintTextAppearance}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:hintTextAppearance
+          @attr name xamarinwebviewapp.xamarinwebviewapp:hintTextAppearance
         */
         public static final int TextInputLayout_hintTextAppearance = 2;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#passwordToggleContentDescription}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#passwordToggleContentDescription}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -10010,21 +10010,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:passwordToggleContentDescription
+          @attr name xamarinwebviewapp.xamarinwebviewapp:passwordToggleContentDescription
         */
         public static final int TextInputLayout_passwordToggleContentDescription = 13;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#passwordToggleDrawable}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#passwordToggleDrawable}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:passwordToggleDrawable
+          @attr name xamarinwebviewapp.xamarinwebviewapp:passwordToggleDrawable
         */
         public static final int TextInputLayout_passwordToggleDrawable = 12;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#passwordToggleEnabled}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#passwordToggleEnabled}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -10034,11 +10034,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:passwordToggleEnabled
+          @attr name xamarinwebviewapp.xamarinwebviewapp:passwordToggleEnabled
         */
         public static final int TextInputLayout_passwordToggleEnabled = 11;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#passwordToggleTint}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#passwordToggleTint}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -10049,11 +10049,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:passwordToggleTint
+          @attr name xamarinwebviewapp.xamarinwebviewapp:passwordToggleTint
         */
         public static final int TextInputLayout_passwordToggleTint = 14;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#passwordToggleTintMode}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#passwordToggleTintMode}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -10069,7 +10069,7 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name XamarinWebViewApp.Droid:passwordToggleTintMode
+          @attr name xamarinwebviewapp.xamarinwebviewapp:passwordToggleTintMode
         */
         public static final int TextInputLayout_passwordToggleTintMode = 15;
         /** Attributes that can be used with a Toolbar.
@@ -10080,33 +10080,33 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #Toolbar_android_gravity android:gravity}</code></td><td></td></tr>
            <tr><td><code>{@link #Toolbar_android_minHeight android:minHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_buttonGravity XamarinWebViewApp.Droid:buttonGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_collapseContentDescription XamarinWebViewApp.Droid:collapseContentDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_collapseIcon XamarinWebViewApp.Droid:collapseIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetEnd XamarinWebViewApp.Droid:contentInsetEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetEndWithActions XamarinWebViewApp.Droid:contentInsetEndWithActions}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetLeft XamarinWebViewApp.Droid:contentInsetLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetRight XamarinWebViewApp.Droid:contentInsetRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetStart XamarinWebViewApp.Droid:contentInsetStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetStartWithNavigation XamarinWebViewApp.Droid:contentInsetStartWithNavigation}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_logo XamarinWebViewApp.Droid:logo}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_logoDescription XamarinWebViewApp.Droid:logoDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_maxButtonHeight XamarinWebViewApp.Droid:maxButtonHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_navigationContentDescription XamarinWebViewApp.Droid:navigationContentDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_navigationIcon XamarinWebViewApp.Droid:navigationIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_popupTheme XamarinWebViewApp.Droid:popupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitle XamarinWebViewApp.Droid:subtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitleTextAppearance XamarinWebViewApp.Droid:subtitleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitleTextColor XamarinWebViewApp.Droid:subtitleTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_title XamarinWebViewApp.Droid:title}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMargin XamarinWebViewApp.Droid:titleMargin}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginBottom XamarinWebViewApp.Droid:titleMarginBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginEnd XamarinWebViewApp.Droid:titleMarginEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginStart XamarinWebViewApp.Droid:titleMarginStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginTop XamarinWebViewApp.Droid:titleMarginTop}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMargins XamarinWebViewApp.Droid:titleMargins}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleTextAppearance XamarinWebViewApp.Droid:titleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleTextColor XamarinWebViewApp.Droid:titleTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_buttonGravity xamarinwebviewapp.xamarinwebviewapp:buttonGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_collapseContentDescription xamarinwebviewapp.xamarinwebviewapp:collapseContentDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_collapseIcon xamarinwebviewapp.xamarinwebviewapp:collapseIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetEnd xamarinwebviewapp.xamarinwebviewapp:contentInsetEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetEndWithActions xamarinwebviewapp.xamarinwebviewapp:contentInsetEndWithActions}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetLeft xamarinwebviewapp.xamarinwebviewapp:contentInsetLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetRight xamarinwebviewapp.xamarinwebviewapp:contentInsetRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetStart xamarinwebviewapp.xamarinwebviewapp:contentInsetStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetStartWithNavigation xamarinwebviewapp.xamarinwebviewapp:contentInsetStartWithNavigation}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_logo xamarinwebviewapp.xamarinwebviewapp:logo}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_logoDescription xamarinwebviewapp.xamarinwebviewapp:logoDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_maxButtonHeight xamarinwebviewapp.xamarinwebviewapp:maxButtonHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_navigationContentDescription xamarinwebviewapp.xamarinwebviewapp:navigationContentDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_navigationIcon xamarinwebviewapp.xamarinwebviewapp:navigationIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_popupTheme xamarinwebviewapp.xamarinwebviewapp:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitle xamarinwebviewapp.xamarinwebviewapp:subtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitleTextAppearance xamarinwebviewapp.xamarinwebviewapp:subtitleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitleTextColor xamarinwebviewapp.xamarinwebviewapp:subtitleTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_title xamarinwebviewapp.xamarinwebviewapp:title}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMargin xamarinwebviewapp.xamarinwebviewapp:titleMargin}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginBottom xamarinwebviewapp.xamarinwebviewapp:titleMarginBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginEnd xamarinwebviewapp.xamarinwebviewapp:titleMarginEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginStart xamarinwebviewapp.xamarinwebviewapp:titleMarginStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginTop xamarinwebviewapp.xamarinwebviewapp:titleMarginTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMargins xamarinwebviewapp.xamarinwebviewapp:titleMargins}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleTextAppearance xamarinwebviewapp.xamarinwebviewapp:titleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleTextColor xamarinwebviewapp.xamarinwebviewapp:titleTextColor}</code></td><td></td></tr>
            </table>
            @see #Toolbar_android_gravity
            @see #Toolbar_android_minHeight
@@ -10161,7 +10161,7 @@ containing a value of this type.
         */
         public static final int Toolbar_android_minHeight = 1;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#buttonGravity}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#buttonGravity}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10174,11 +10174,11 @@ containing a value of this type.
 <tr><td><code>top</code></td><td>0x30</td><td></td></tr>
 <tr><td><code>bottom</code></td><td>0x50</td><td></td></tr>
 </table>
-          @attr name XamarinWebViewApp.Droid:buttonGravity
+          @attr name xamarinwebviewapp.xamarinwebviewapp:buttonGravity
         */
         public static final int Toolbar_buttonGravity = 21;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#collapseContentDescription}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#collapseContentDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10188,21 +10188,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:collapseContentDescription
+          @attr name xamarinwebviewapp.xamarinwebviewapp:collapseContentDescription
         */
         public static final int Toolbar_collapseContentDescription = 23;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#collapseIcon}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#collapseIcon}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:collapseIcon
+          @attr name xamarinwebviewapp.xamarinwebviewapp:collapseIcon
         */
         public static final int Toolbar_collapseIcon = 22;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#contentInsetEnd}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#contentInsetEnd}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10214,11 +10214,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:contentInsetEnd
+          @attr name xamarinwebviewapp.xamarinwebviewapp:contentInsetEnd
         */
         public static final int Toolbar_contentInsetEnd = 6;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#contentInsetEndWithActions}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#contentInsetEndWithActions}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10230,11 +10230,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:contentInsetEndWithActions
+          @attr name xamarinwebviewapp.xamarinwebviewapp:contentInsetEndWithActions
         */
         public static final int Toolbar_contentInsetEndWithActions = 10;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#contentInsetLeft}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#contentInsetLeft}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10246,11 +10246,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:contentInsetLeft
+          @attr name xamarinwebviewapp.xamarinwebviewapp:contentInsetLeft
         */
         public static final int Toolbar_contentInsetLeft = 7;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#contentInsetRight}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#contentInsetRight}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10262,11 +10262,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:contentInsetRight
+          @attr name xamarinwebviewapp.xamarinwebviewapp:contentInsetRight
         */
         public static final int Toolbar_contentInsetRight = 8;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#contentInsetStart}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#contentInsetStart}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10278,11 +10278,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:contentInsetStart
+          @attr name xamarinwebviewapp.xamarinwebviewapp:contentInsetStart
         */
         public static final int Toolbar_contentInsetStart = 5;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#contentInsetStartWithNavigation}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#contentInsetStartWithNavigation}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10294,21 +10294,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:contentInsetStartWithNavigation
+          @attr name xamarinwebviewapp.xamarinwebviewapp:contentInsetStartWithNavigation
         */
         public static final int Toolbar_contentInsetStartWithNavigation = 9;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#logo}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#logo}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:logo
+          @attr name xamarinwebviewapp.xamarinwebviewapp:logo
         */
         public static final int Toolbar_logo = 4;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#logoDescription}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#logoDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10318,11 +10318,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:logoDescription
+          @attr name xamarinwebviewapp.xamarinwebviewapp:logoDescription
         */
         public static final int Toolbar_logoDescription = 26;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#maxButtonHeight}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#maxButtonHeight}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10334,11 +10334,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:maxButtonHeight
+          @attr name xamarinwebviewapp.xamarinwebviewapp:maxButtonHeight
         */
         public static final int Toolbar_maxButtonHeight = 20;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#navigationContentDescription}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#navigationContentDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10348,31 +10348,31 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:navigationContentDescription
+          @attr name xamarinwebviewapp.xamarinwebviewapp:navigationContentDescription
         */
         public static final int Toolbar_navigationContentDescription = 25;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#navigationIcon}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#navigationIcon}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:navigationIcon
+          @attr name xamarinwebviewapp.xamarinwebviewapp:navigationIcon
         */
         public static final int Toolbar_navigationIcon = 24;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#popupTheme}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:popupTheme
+          @attr name xamarinwebviewapp.xamarinwebviewapp:popupTheme
         */
         public static final int Toolbar_popupTheme = 11;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#subtitle}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#subtitle}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10382,21 +10382,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:subtitle
+          @attr name xamarinwebviewapp.xamarinwebviewapp:subtitle
         */
         public static final int Toolbar_subtitle = 3;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#subtitleTextAppearance}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#subtitleTextAppearance}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:subtitleTextAppearance
+          @attr name xamarinwebviewapp.xamarinwebviewapp:subtitleTextAppearance
         */
         public static final int Toolbar_subtitleTextAppearance = 13;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#subtitleTextColor}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#subtitleTextColor}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10407,11 +10407,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:subtitleTextColor
+          @attr name xamarinwebviewapp.xamarinwebviewapp:subtitleTextColor
         */
         public static final int Toolbar_subtitleTextColor = 28;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#title}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#title}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10421,11 +10421,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:title
+          @attr name xamarinwebviewapp.xamarinwebviewapp:title
         */
         public static final int Toolbar_title = 2;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#titleMargin}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#titleMargin}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10437,11 +10437,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:titleMargin
+          @attr name xamarinwebviewapp.xamarinwebviewapp:titleMargin
         */
         public static final int Toolbar_titleMargin = 14;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#titleMarginBottom}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#titleMarginBottom}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10453,11 +10453,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:titleMarginBottom
+          @attr name xamarinwebviewapp.xamarinwebviewapp:titleMarginBottom
         */
         public static final int Toolbar_titleMarginBottom = 18;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#titleMarginEnd}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#titleMarginEnd}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10469,11 +10469,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:titleMarginEnd
+          @attr name xamarinwebviewapp.xamarinwebviewapp:titleMarginEnd
         */
         public static final int Toolbar_titleMarginEnd = 16;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#titleMarginStart}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#titleMarginStart}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10485,11 +10485,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:titleMarginStart
+          @attr name xamarinwebviewapp.xamarinwebviewapp:titleMarginStart
         */
         public static final int Toolbar_titleMarginStart = 15;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#titleMarginTop}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#titleMarginTop}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10501,11 +10501,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:titleMarginTop
+          @attr name xamarinwebviewapp.xamarinwebviewapp:titleMarginTop
         */
         public static final int Toolbar_titleMarginTop = 17;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#titleMargins}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#titleMargins}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10517,21 +10517,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:titleMargins
+          @attr name xamarinwebviewapp.xamarinwebviewapp:titleMargins
         */
         public static final int Toolbar_titleMargins = 19;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#titleTextAppearance}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#titleTextAppearance}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:titleTextAppearance
+          @attr name xamarinwebviewapp.xamarinwebviewapp:titleTextAppearance
         */
         public static final int Toolbar_titleTextAppearance = 12;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#titleTextColor}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#titleTextColor}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10542,7 +10542,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:titleTextColor
+          @attr name xamarinwebviewapp.xamarinwebviewapp:titleTextColor
         */
         public static final int Toolbar_titleTextColor = 27;
         /** Attributes that can be used with a View.
@@ -10553,9 +10553,9 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #View_android_focusable android:focusable}</code></td><td></td></tr>
            <tr><td><code>{@link #View_android_theme android:theme}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_paddingEnd XamarinWebViewApp.Droid:paddingEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_paddingStart XamarinWebViewApp.Droid:paddingStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_theme XamarinWebViewApp.Droid:theme}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_paddingEnd xamarinwebviewapp.xamarinwebviewapp:paddingEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_paddingStart xamarinwebviewapp.xamarinwebviewapp:paddingStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_theme xamarinwebviewapp.xamarinwebviewapp:theme}</code></td><td></td></tr>
            </table>
            @see #View_android_focusable
            @see #View_android_theme
@@ -10580,7 +10580,7 @@ containing a value of this type.
         */
         public static final int View_android_theme = 0;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#paddingEnd}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#paddingEnd}
           attribute's value can be found in the {@link #View} array.
 
 
@@ -10592,11 +10592,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:paddingEnd
+          @attr name xamarinwebviewapp.xamarinwebviewapp:paddingEnd
         */
         public static final int View_paddingEnd = 3;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#paddingStart}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#paddingStart}
           attribute's value can be found in the {@link #View} array.
 
 
@@ -10608,17 +10608,17 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:paddingStart
+          @attr name xamarinwebviewapp.xamarinwebviewapp:paddingStart
         */
         public static final int View_paddingStart = 2;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#theme}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#theme}
           attribute's value can be found in the {@link #View} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name XamarinWebViewApp.Droid:theme
+          @attr name xamarinwebviewapp.xamarinwebviewapp:theme
         */
         public static final int View_theme = 4;
         /** Attributes that can be used with a ViewBackgroundHelper.
@@ -10628,8 +10628,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #ViewBackgroundHelper_android_background android:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint XamarinWebViewApp.Droid:backgroundTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode XamarinWebViewApp.Droid:backgroundTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint xamarinwebviewapp.xamarinwebviewapp:backgroundTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode xamarinwebviewapp.xamarinwebviewapp:backgroundTintMode}</code></td><td></td></tr>
            </table>
            @see #ViewBackgroundHelper_android_background
            @see #ViewBackgroundHelper_backgroundTint
@@ -10645,7 +10645,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int ViewBackgroundHelper_android_background = 0;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#backgroundTint}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#backgroundTint}
           attribute's value can be found in the {@link #ViewBackgroundHelper} array.
 
 
@@ -10656,11 +10656,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name XamarinWebViewApp.Droid:backgroundTint
+          @attr name xamarinwebviewapp.xamarinwebviewapp:backgroundTint
         */
         public static final int ViewBackgroundHelper_backgroundTint = 1;
         /**
-          <p>This symbol is the offset where the {@link XamarinWebViewApp.Droid.R.attr#backgroundTintMode}
+          <p>This symbol is the offset where the {@link xamarinwebviewapp.xamarinwebviewapp.R.attr#backgroundTintMode}
           attribute's value can be found in the {@link #ViewBackgroundHelper} array.
 
 
@@ -10676,7 +10676,7 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name XamarinWebViewApp.Droid:backgroundTintMode
+          @attr name xamarinwebviewapp.xamarinwebviewapp:backgroundTintMode
         */
         public static final int ViewBackgroundHelper_backgroundTintMode = 2;
         /** Attributes that can be used with a ViewStubCompat.
