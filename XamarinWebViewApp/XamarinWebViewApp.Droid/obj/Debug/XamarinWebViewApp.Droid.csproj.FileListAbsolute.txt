@@ -29,7 +29,6 @@ C:\Tirocinio\Repo\XamarinWebViewApp\XamarinWebViewApp\XamarinWebViewApp.Droid\bi
 C:\Tirocinio\Repo\XamarinWebViewApp\XamarinWebViewApp\XamarinWebViewApp.Droid\bin\Debug\Xamarin.Forms.Platform.dll
 C:\Tirocinio\Repo\XamarinWebViewApp\XamarinWebViewApp\XamarinWebViewApp.Droid\bin\Debug\Xamarin.Forms.Xaml.dll
 C:\Tirocinio\Repo\XamarinWebViewApp\XamarinWebViewApp\XamarinWebViewApp.Droid\bin\Debug\XamarinWebViewApp.dll
-C:\Tirocinio\Repo\XamarinWebViewApp\XamarinWebViewApp\XamarinWebViewApp.Droid\bin\Debug\XamarinWebViewApp.pdb
 C:\Tirocinio\Repo\XamarinWebViewApp\XamarinWebViewApp\XamarinWebViewApp.Droid\bin\Debug\FormsViewGroup.pdb
 C:\Tirocinio\Repo\XamarinWebViewApp\XamarinWebViewApp\XamarinWebViewApp.Droid\bin\Debug\FormsViewGroup.dll.mdb
 C:\Tirocinio\Repo\XamarinWebViewApp\XamarinWebViewApp\XamarinWebViewApp.Droid\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
@@ -79,3 +78,4 @@ C:\Tirocinio\Repo\XamarinWebViewApp\XamarinWebViewApp\XamarinWebViewApp.Droid\ob
 C:\Tirocinio\Repo\XamarinWebViewApp\XamarinWebViewApp\XamarinWebViewApp.Droid\obj\Debug\res\values-v21\styles.xml
 C:\Tirocinio\Repo\XamarinWebViewApp\XamarinWebViewApp\XamarinWebViewApp.Droid\obj\Debug\R.cs.flag
 C:\Tirocinio\Repo\XamarinWebViewApp\XamarinWebViewApp\XamarinWebViewApp.Droid\obj\Debug\uploadflags.txt
+C:\Tirocinio\Repo\XamarinWebViewApp\XamarinWebViewApp\XamarinWebViewApp.Droid\bin\Debug\XamarinWebViewApp.pdb
