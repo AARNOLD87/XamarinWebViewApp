@@ -6,6 +6,6 @@
              x:Class="XamarinWebViewApp.Views.WebViewPage"
              Title="WebViewPage">
     <Grid>
-        <WebView x:Name="WebViewControl" Source="http://www.google.it" ></WebView>
+        <WebView x:Name="WebViewControl" Source="http://www.google.it" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" ></WebView>
     </Grid>
 </ContentPage>
