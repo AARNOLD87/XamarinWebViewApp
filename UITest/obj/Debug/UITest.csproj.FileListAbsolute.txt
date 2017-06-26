@@ -32,6 +32,7 @@ C:\Tirocinio\Repo\XamarinWebViewApp\UITest\bin\Debug\Prism.Unity.Forms.xml
 C:\Tirocinio\Repo\XamarinWebViewApp\UITest\bin\Debug\Prism.Unity.Forms.dll.config
 C:\Tirocinio\Repo\XamarinWebViewApp\UITest\bin\Debug\Prism.Forms.xml
 C:\Tirocinio\Repo\XamarinWebViewApp\UITest\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Tirocinio\Repo\XamarinWebViewApp\UITest\bin\Debug\XamarinWebViewApp.pdb
 C:\Tirocinio\Repo\XamarinWebViewApp\UITest\bin\Debug\Xamarin.Forms.Core.pdb
 C:\Tirocinio\Repo\XamarinWebViewApp\UITest\bin\Debug\Xamarin.Forms.Core.xml
 C:\Tirocinio\Repo\XamarinWebViewApp\UITest\bin\Debug\FormsViewGroup.pdb
@@ -43,4 +44,3 @@ C:\Tirocinio\Repo\XamarinWebViewApp\UITest\bin\Debug\Xamarin.Forms.Xaml.xml
 C:\Tirocinio\Repo\XamarinWebViewApp\UITest\obj\Debug\UITest.csprojResolveAssemblyReference.cache
 C:\Tirocinio\Repo\XamarinWebViewApp\UITest\obj\Debug\UITest.dll
 C:\Tirocinio\Repo\XamarinWebViewApp\UITest\obj\Debug\UITest.pdb
-C:\Tirocinio\Repo\XamarinWebViewApp\UITest\bin\Debug\XamarinWebViewApp.pdb

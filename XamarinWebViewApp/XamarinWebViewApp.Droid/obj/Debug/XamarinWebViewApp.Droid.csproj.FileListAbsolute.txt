@@ -29,6 +29,7 @@ C:\Tirocinio\Repo\XamarinWebViewApp\XamarinWebViewApp\XamarinWebViewApp.Droid\bi
 C:\Tirocinio\Repo\XamarinWebViewApp\XamarinWebViewApp\XamarinWebViewApp.Droid\bin\Debug\Xamarin.Forms.Platform.dll
 C:\Tirocinio\Repo\XamarinWebViewApp\XamarinWebViewApp\XamarinWebViewApp.Droid\bin\Debug\Xamarin.Forms.Xaml.dll
 C:\Tirocinio\Repo\XamarinWebViewApp\XamarinWebViewApp\XamarinWebViewApp.Droid\bin\Debug\XamarinWebViewApp.dll
+C:\Tirocinio\Repo\XamarinWebViewApp\XamarinWebViewApp\XamarinWebViewApp.Droid\bin\Debug\XamarinWebViewApp.pdb
 C:\Tirocinio\Repo\XamarinWebViewApp\XamarinWebViewApp\XamarinWebViewApp.Droid\bin\Debug\FormsViewGroup.pdb
 C:\Tirocinio\Repo\XamarinWebViewApp\XamarinWebViewApp\XamarinWebViewApp.Droid\bin\Debug\FormsViewGroup.dll.mdb
 C:\Tirocinio\Repo\XamarinWebViewApp\XamarinWebViewApp\XamarinWebViewApp.Droid\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
@@ -78,4 +79,12 @@ C:\Tirocinio\Repo\XamarinWebViewApp\XamarinWebViewApp\XamarinWebViewApp.Droid\ob
 C:\Tirocinio\Repo\XamarinWebViewApp\XamarinWebViewApp\XamarinWebViewApp.Droid\obj\Debug\res\values-v21\styles.xml
 C:\Tirocinio\Repo\XamarinWebViewApp\XamarinWebViewApp\XamarinWebViewApp.Droid\obj\Debug\R.cs.flag
 C:\Tirocinio\Repo\XamarinWebViewApp\XamarinWebViewApp\XamarinWebViewApp.Droid\obj\Debug\uploadflags.txt
-C:\Tirocinio\Repo\XamarinWebViewApp\XamarinWebViewApp\XamarinWebViewApp.Droid\bin\Debug\XamarinWebViewApp.pdb
+C:\Tirocinio\Repo\XamarinWebViewApp\XamarinWebViewApp\XamarinWebViewApp.Droid\bin\Debug\XamarinWebViewApp.dll.mdb
+C:\Tirocinio\Repo\XamarinWebViewApp\XamarinWebViewApp\XamarinWebViewApp.Droid\bin\Debug\XamarinWebViewApp.Droid.dll.mdb
+C:\Tirocinio\Repo\XamarinWebViewApp\XamarinWebViewApp\XamarinWebViewApp.Droid\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Tirocinio\Repo\XamarinWebViewApp\XamarinWebViewApp\XamarinWebViewApp.Droid\obj\Debug\android\assets\Microsoft.Practices.ServiceLocation.dll.mdb
+C:\Tirocinio\Repo\XamarinWebViewApp\XamarinWebViewApp\XamarinWebViewApp.Droid\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Tirocinio\Repo\XamarinWebViewApp\XamarinWebViewApp\XamarinWebViewApp.Droid\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Tirocinio\Repo\XamarinWebViewApp\XamarinWebViewApp\XamarinWebViewApp.Droid\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Tirocinio\Repo\XamarinWebViewApp\XamarinWebViewApp\XamarinWebViewApp.Droid\obj\Debug\android\assets\XamarinWebViewApp.dll.mdb
+C:\Tirocinio\Repo\XamarinWebViewApp\XamarinWebViewApp\XamarinWebViewApp.Droid\obj\Debug\android\assets\XamarinWebViewApp.Droid.dll.mdb

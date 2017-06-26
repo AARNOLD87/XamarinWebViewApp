@@ -14,6 +14,7 @@ namespace UITest
             {
                 return ConfigureApp
                     .Android
+                    .ApkFile("C:/Tirocinio/Repo/XamarinWebViewApp/XamarinWebViewApp/XamarinWebViewApp.Droid/bin/Debug/xamarinwebviewapp.xamarinwebviewapp.apk")
                     .StartApp();
             }
 
