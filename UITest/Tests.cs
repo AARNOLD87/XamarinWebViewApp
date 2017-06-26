@@ -31,19 +31,19 @@ namespace UITest
             app.Screenshot("First screen.");
         }
 
-        [Test]
-        public void TextUrlEntry()
-        {
-            //Arrange
-            app.Tap( x => x.Class("ImageButton").Marked("OK"));
-            app.EnterText("urlEntry", "www.vaimo.mommo");
+        //[Test]
+        //public void TextUrlEntry()
+        //{
+        //    //Arrange
+        //    app.Tap( x => x.Class("ImageButton").Marked("OK"));
+        //    app.EnterText("urlEntry", "www.vaimo.mommo");
 
-            //Act
+        //    //Act
 
-            //Assert
-            var entry = app.Query("urlEntry").First(x => x.Text != "");
-            Assert.IsTrue(entry != null);
-        }
+        //    //Assert
+        //    var entry = app.Query("urlEntry").First(x => x.Text != "");
+        //    Assert.IsTrue(entry != null);
+        //}
     }
 }
 
