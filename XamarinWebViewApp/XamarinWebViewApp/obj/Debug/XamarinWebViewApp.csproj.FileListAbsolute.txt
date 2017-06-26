@@ -25,4 +25,3 @@ C:\Tirocinio\Repo\XamarinWebViewApp\XamarinWebViewApp\XamarinWebViewApp\obj\Debu
 C:\Tirocinio\Repo\XamarinWebViewApp\XamarinWebViewApp\XamarinWebViewApp\obj\Debug\XamarinWebViewApp.Views.WebViewPage.xaml.g.cs
 C:\Tirocinio\Repo\XamarinWebViewApp\XamarinWebViewApp\XamarinWebViewApp\obj\Debug\XamarinWebViewApp.dll
 C:\Tirocinio\Repo\XamarinWebViewApp\XamarinWebViewApp\XamarinWebViewApp\obj\Debug\XamarinWebViewApp.pdb
-C:\Tirocinio\Repo\XamarinWebViewApp\XamarinWebViewApp\XamarinWebViewApp\obj\Debug\XamarinWebViewApp.csprojResolveAssemblyReference.cache
