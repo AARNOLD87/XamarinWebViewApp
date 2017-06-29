@@ -8,5 +8,6 @@ namespace XamarinWebViewApp.Views
         {
             InitializeComponent();
         }
+
     }
 }
