@@ -9,8 +9,8 @@
     <MasterDetailPage.Master>
         <ContentPage Title="MENU">
             <StackLayout Orientation="Vertical" VerticalOptions="CenterAndExpand">
-                <Entry AutomationId="urlEntry" Placeholder="inserisci url"/>
-                <Button AutomationId="viaggia" Text="VIAGGIA"/>
+                <Entry AutomationId="urlEntry" Text="{Binding Url}" Placeholder="inserisci url"/>
+                <Button AutomationId="viaggia" Command="{Binding GoCommand}" Text="VIAGGIA"/>
             </StackLayout>
         </ContentPage>
     </MasterDetailPage.Master>
